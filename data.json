@@ -1,0 +1,33 @@
+{
+    "last_updated": "02/09/2023 10:30:02",
+    "stations": [
+        {
+            "site_id": "gcpvxdee71vw",
+            "brand": "Morrisons",
+            "address": "6-7 Salisbury Hall Gardens, Chingford",
+            "postcode": "E4 8SA",
+            "location": {
+                "latitude": 51.606098,
+                "longitude": -0.01703
+            },
+            "prices": {
+                "E10": 147.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gcwcbh852c0r",
+            "brand": "Morrisons",
+            "address": "110 Mayo Avenue, Bradford",
+            "postcode": "BD5 8HP",
+            "location": {
+                "latitude": 53.770401,
+                "longitude": -1.75778
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 149.7
+            }
+        }
+    ]
+}

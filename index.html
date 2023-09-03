@@ -1,59 +1,97 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data Display</title>
     <style>
-          body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-}
-
-.container {
-    max-width: 400px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-}
-
-h2 {
-    text-align: center;
-}
-
-form {
-    text-align: center;
-}
-
-input[type="text"],
-input[type="password"] {
-    width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-button {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    cursor: pointer;
-}
+        .station {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
     </style>
-    <title>Login</title>
 </head>
+
 <body>
-    <div class="container">
-        <form action="login.php" method="POST">
-            <h2>Login</h2>
-            <input type="text" name="username" placeholder="Username" required>
-            <input type="password" name="password" placeholder="Password" required>
-            <button type="submit">Login</button>
-        </form>
-    </div>
+    <h1>JSON Data Display</h1>
+
+    <div id="stationContainer"></div>
+
+    <script>
+        // Function to fetch and display JSON data
+        function fetchData() {
+            fetch('fuel.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const stations = data.stations;
+                    const stationContainer = document.getElementById('stationContainer');
+
+                    // Loop through each station in the JSON array
+                    stations.forEach((station, index) => {
+                        const stationDiv = document.createElement('div');
+                        stationDiv.className = 'station';
+
+                        // Create a dropdown for postcode
+                        const postcodeDropdown = document.createElement('select');
+                        postcodeDropdown.innerHTML = `<option value="${station.postcode}">${station.postcode}</option>`;
+
+                        // Display data in the HTML elements for each station
+                        stationDiv.innerHTML = `
+                            <h2>Station ${index + 1}</h2>
+                         
+                            <div>
+                                <strong>Address:</strong>
+                                <span>${station.address}</span>
+                            </div>
+                            <div>
+                                <strong>Postcode:</strong>
+                            </div>
+                            <div>
+                                <strong>Prices:</strong>
+                                <span>${station.prices.E10}</span>
+                            </div>
+                        `;
+
+                        const postcodeDiv = stationDiv.querySelector('div:last-child');
+                        postcodeDiv.appendChild(postcodeDropdown);
+
+                        // Add options for postcode
+                        stationDiv.querySelector('select').innerHTML = stations.map(station => `<option value="${station.postcode}">${station.postcode}</option>`).join('');
+
+                        // Set the selected option based on the station's postcode
+                        stationDiv.querySelector('select').value = station.postcode;
+
+                        // Add event listener to update JSON data when the dropdown changes
+                        stationDiv.querySelector('select').addEventListener('change', function () {
+                            const selectedPostcode = this.value;
+                            const selectedStation = stations.find(station => station.postcode === selectedPostcode);
+
+                         if (selectedStation) {
+                                //stationDiv.querySelector('span:nth-of-type(2)').textContent = selectedStation.brand ? selectedStation.brand : 'Brand not available';
+                                stationDiv.querySelector('span:nth-of-type(3)').textContent = selectedStation.address ? selectedStation.address : 'Address not available';
+                                stationDiv.querySelector('span:nth-of-type(5)').textContent = selectedStation.prices ? selectedStation.prices : 'Price not available';
+                            }
+                        });
+
+                        // Append the stationDiv to the container
+                        stationContainer.appendChild(stationDiv);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching data: ' + error.message);
+                });
+        }
+
+        // Call the fetchData function when the page loads
+        window.addEventListener('load', fetchData);
+    </script>
 </body>
+
 </html>

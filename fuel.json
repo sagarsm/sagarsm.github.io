@@ -1,0 +1,5000 @@
+{
+    "last_updated": "02/09/2023 10:30:02",
+    "stations": [
+        {
+            "site_id": "gcpvxdee71vw",
+            "brand": "Morrisons",
+            "address": "6-7 Salisbury Hall Gardens, Chingford",
+            "postcode": "E4 8SA",
+            "location": {
+                "latitude": 51.606098,
+                "longitude": -0.01703
+            },
+            "prices": {
+                "E10": 147.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gcwcbh852c0r",
+            "brand": "Morrisons",
+            "address": "110 Mayo Avenue, Bradford",
+            "postcode": "BD5 8HP",
+            "location": {
+                "latitude": 53.770401,
+                "longitude": -1.75778
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcwf0w9v5km2",
+            "brand": "Morrisons",
+            "address": "275 Bradford Road, Bradford",
+            "postcode": "BD10 8EG",
+            "location": {
+                "latitude": 53.825649,
+                "longitude": -1.73329
+            },
+            "prices": {
+                "E5": 156.4,
+                "E10": 146.4,
+                "B7": 152.4
+            }
+        },
+        {
+            "site_id": "gcwdp3d0dfmp",
+            "brand": "Morrisons",
+            "address": "Victoria Shopping Centre, Bradford",
+            "postcode": "BD8 9TP",
+            "location": {
+                "latitude": 53.797401,
+                "longitude": -1.7879
+            },
+            "prices": {
+                "E10": 146.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcwdktenyjfg",
+            "brand": "Morrisons",
+            "address": "Worth Way, Keighley",
+            "postcode": "BD21 5AE",
+            "location": {
+                "latitude": 53.86441,
+                "longitude": -1.90724
+            },
+            "prices": {
+                "E10": 153.4,
+                "B7": 155.4
+            }
+        },
+        {
+            "site_id": "gcwf3wj8tqu8",
+            "brand": "Morrisons",
+            "address": "High Street, Leeds",
+            "postcode": "LS19 7PP",
+            "location": {
+                "latitude": 53.866089,
+                "longitude": -1.68411
+            },
+            "prices": {
+                "E10": 146.4,
+                "B7": 152.4
+            }
+        },
+        {
+            "site_id": "gcwf144rybjt",
+            "brand": "Morrisons",
+            "address": "Rushton Avenue, Bradford",
+            "postcode": "BD3 7HZ",
+            "location": {
+                "latitude": 53.80138,
+                "longitude": -1.71048
+            },
+            "prices": {
+                "E10": 149.4,
+                "B7": 152.4
+            }
+        },
+        {
+            "site_id": "gcwcg8133c1x",
+            "brand": "Morrisons",
+            "address": "Windsor Court, Leeds",
+            "postcode": "LS27 9BG",
+            "location": {
+                "latitude": 53.745338,
+                "longitude": -1.60221
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcxdjy6yvgh8",
+            "brand": "Morrisons",
+            "address": "Victoria Road, Beverley",
+            "postcode": "HU17 8XE",
+            "location": {
+                "latitude": 53.82457,
+                "longitude": -0.44641
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gcwcvnnueggv",
+            "brand": "Morrisons",
+            "address": "Church Street, Leeds",
+            "postcode": "LS10 2AP",
+            "location": {
+                "latitude": 53.77887,
+                "longitude": -1.52865
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcwf3p31vmnm",
+            "brand": "Morrisons",
+            "address": "89 Otley Road, Leeds",
+            "postcode": "LS20 8PS",
+            "location": {
+                "latitude": 53.873161,
+                "longitude": -1.71226
+            },
+            "prices": {
+                "E5": 156.4,
+                "E10": 146.4,
+                "B7": 152.4
+            }
+        },
+        {
+            "site_id": "gcqpd50rz4k3",
+            "brand": "Morrisons",
+            "address": "Green Oaks Way, Widnes",
+            "postcode": "WA8 6UA",
+            "location": {
+                "latitude": 53.367432,
+                "longitude": -2.72396
+            },
+            "prices": {
+                "E10": 144.7,
+                "B7": 145.7
+            }
+        },
+        {
+            "site_id": "gcw040xy4zy4",
+            "brand": "Morrisons",
+            "address": "Baxters Lane, St Helens",
+            "postcode": "WA9 3DH",
+            "location": {
+                "latitude": 53.441319,
+                "longitude": -2.71384
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcw2qs5pkcnz",
+            "brand": "Morrisons",
+            "address": "Poplar Street, Manchester",
+            "postcode": "M35 0HY",
+            "location": {
+                "latitude": 53.504669,
+                "longitude": -2.17096
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcrnk1hbz55b",
+            "brand": "Morrisons",
+            "address": "Sutton Road, Mansfield",
+            "postcode": "NG18 5HL",
+            "location": {
+                "latitude": 53.135521,
+                "longitude": -1.22364
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcqe0bbt09mv",
+            "brand": "Morrisons",
+            "address": "Black Country Route, Bilston",
+            "postcode": "WV14 0DZ",
+            "location": {
+                "latitude": 52.56358,
+                "longitude": -2.0757
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcwyk8mhp13m",
+            "brand": "Morrisons",
+            "address": "97 North Road, Darlington",
+            "postcode": "DL1 2PY",
+            "location": {
+                "latitude": 54.5382,
+                "longitude": -1.55289
+            },
+            "prices": {
+                "E10": 150.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcrp10vt8e0n",
+            "brand": "Morrisons",
+            "address": "1 Barnfield Close, Chesterfield",
+            "postcode": "S43 3UL",
+            "location": {
+                "latitude": 53.2668,
+                "longitude": -1.35473
+            },
+            "prices": {
+                "E10": 154.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcw26b5whdy5",
+            "brand": "Morrisons",
+            "address": "7 Irwell Place, Manchester",
+            "postcode": "M30 0FH",
+            "location": {
+                "latitude": 53.482491,
+                "longitude": -2.33508
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcrp8ycnf62c",
+            "brand": "Morrisons",
+            "address": "Poplar Way, Rotherham",
+            "postcode": "S60 5TR",
+            "location": {
+                "latitude": 53.387859,
+                "longitude": -1.37182
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcrrxp2ju1w7",
+            "brand": "Morrisons",
+            "address": "Heapham Road South, Gainsborough",
+            "postcode": "DN21 1XY",
+            "location": {
+                "latitude": 53.39043,
+                "longitude": -0.74689
+            },
+            "prices": {
+                "E10": 156.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcw2vkswmkp4",
+            "brand": "Morrisons",
+            "address": "Dawson Street, Heywood",
+            "postcode": "OL10 4PU",
+            "location": {
+                "latitude": 53.59515,
+                "longitude": -2.22381
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcwcm7c5nttw",
+            "brand": "Morrisons",
+            "address": "Dewsbury Road, Wakefield",
+            "postcode": "WF2 9BY",
+            "location": {
+                "latitude": 53.678371,
+                "longitude": -1.52544
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcych751847x",
+            "brand": "Morrisons",
+            "address": "The Killingworth Centre, Newcastle upon Tyne",
+            "postcode": "NE12 6YT",
+            "location": {
+                "latitude": 55.036282,
+                "longitude": -1.56692
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcw80xkgd837",
+            "brand": "Morrisons",
+            "address": "94 Foundry Street, Dukinfield",
+            "postcode": "SK16 5PJ",
+            "location": {
+                "latitude": 53.477928,
+                "longitude": -2.08077
+            },
+            "prices": {
+                "E10": 143.7,
+                "B7": 144.7
+            }
+        },
+        {
+            "site_id": "gcrpgmkwjn6k",
+            "brand": "Morrisons",
+            "address": "Bawtry Road, Rotherham",
+            "postcode": "S66 1YZ",
+            "location": {
+                "latitude": 53.423458,
+                "longitude": -1.25703
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcwycy6433jz",
+            "brand": "Morrisons",
+            "address": "Bob Hardisty Drive, Bishop Auckland",
+            "postcode": "DL14 7TN",
+            "location": {
+                "latitude": 54.658749,
+                "longitude": -1.6781
+            },
+            "prices": {
+                "E10": 144.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcw1ceptk281",
+            "brand": "Morrisons",
+            "address": "Riversway, Preston",
+            "postcode": "PR2 2YN",
+            "location": {
+                "latitude": 53.762501,
+                "longitude": -2.7361
+            },
+            "prices": {
+                "E5": 155.7,
+                "E10": 145.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcwc9c4s2ngt",
+            "brand": "Morrisons",
+            "address": "17 Union Street, Heckmondwike",
+            "postcode": "WF16 0HL",
+            "location": {
+                "latitude": 53.707432,
+                "longitude": -1.67747
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcvbmhsnxvrd",
+            "brand": "Morrisons",
+            "address": "Kingstown Road, Carlisle",
+            "postcode": "CA3 0QZ",
+            "location": {
+                "latitude": 54.913559,
+                "longitude": -2.9385
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcw2b9p0sutg",
+            "brand": "Morrisons",
+            "address": "Blackhorse Street, Bolton",
+            "postcode": "BL1 1PQ",
+            "location": {
+                "latitude": 53.57494,
+                "longitude": -2.42914
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcret3v1d4rr",
+            "brand": "Morrisons",
+            "address": "Uffington Road, Stamford",
+            "postcode": "PE9 2FT",
+            "location": {
+                "latitude": 52.656368,
+                "longitude": -0.46545
+            },
+            "prices": {
+                "E5": 161.9,
+                "E10": 151.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcz08bf7r0xc",
+            "brand": "Morrisons",
+            "address": "Whitburn Road, Seaburn",
+            "postcode": "SR6 8AA",
+            "location": {
+                "latitude": 54.936321,
+                "longitude": -1.36989
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcq5yd1xw1n4",
+            "brand": "Morrisons",
+            "address": "Spring Hill, Telford",
+            "postcode": "TF1 1RP",
+            "location": {
+                "latitude": 52.702709,
+                "longitude": -2.52453
+            },
+            "prices": {
+                "E10": 150.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcqmwn53ubyk",
+            "brand": "Morrisons",
+            "address": "Festival Park, Stoke-on-Trent",
+            "postcode": "ST1 5NY",
+            "location": {
+                "latitude": 53.031311,
+                "longitude": -2.19259
+            },
+            "prices": {
+                "E5": 154.7,
+                "E10": 144.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcqzvcx1h88w",
+            "brand": "Morrisons",
+            "address": "699 Penistone Road, Sheffield",
+            "postcode": "S6 2GY",
+            "location": {
+                "latitude": 53.40197,
+                "longitude": -1.49532
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 150.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcw2zrucw31f",
+            "brand": "Morrisons",
+            "address": "285 Kingsway, Rochdale",
+            "postcode": "OL16 4AT",
+            "location": {
+                "latitude": 53.612171,
+                "longitude": -2.13554
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcr5byyzy24m",
+            "brand": "Morrisons",
+            "address": "Whitwick Road, Coalville",
+            "postcode": "LE67 3JN",
+            "location": {
+                "latitude": 52.72884,
+                "longitude": -1.36375
+            },
+            "prices": {
+                "E10": 150.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcwj1u95shxg",
+            "brand": "Morrisons",
+            "address": "Queen Katherines Avenue, Kendal",
+            "postcode": "LA9 6DU",
+            "location": {
+                "latitude": 54.341751,
+                "longitude": -2.73404
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcwdcyvq4n7s",
+            "brand": "Morrisons",
+            "address": "Broughton Road, Skipton",
+            "postcode": "BD23 1RT",
+            "location": {
+                "latitude": 53.959042,
+                "longitude": -2.02517
+            },
+            "prices": {
+                "E5": 165.4,
+                "E10": 155.4,
+                "B7": 156.4
+            }
+        },
+        {
+            "site_id": "gcw2rp096eku",
+            "brand": "Morrisons",
+            "address": "Tweedale Way, Oldham",
+            "postcode": "OL9 7LD",
+            "location": {
+                "latitude": 53.52013,
+                "longitude": -2.15252
+            },
+            "prices": {
+                "E10": 145.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcxn6gzn6uyc",
+            "brand": "Morrisons",
+            "address": "Newmarket Avenue, Stockton-on-Tees",
+            "postcode": "TS17 7BP",
+            "location": {
+                "latitude": 54.557831,
+                "longitude": -1.27566
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcw2b5jfd75q",
+            "brand": "Morrisons",
+            "address": "Mornington Road, Bolton",
+            "postcode": "BL1 4EU",
+            "location": {
+                "latitude": 53.586262,
+                "longitude": -2.45294
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcw1hnrvpx4g",
+            "brand": "Morrisons",
+            "address": "Brooke Street, Chorley",
+            "postcode": "PR7 3BE",
+            "location": {
+                "latitude": 53.64851,
+                "longitude": -2.62575
+            },
+            "prices": {
+                "E10": 143.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcx0135wq2d9",
+            "brand": "Morrisons",
+            "address": "Stadium Way, Rotherham",
+            "postcode": "S60 1TG",
+            "location": {
+                "latitude": 53.444069,
+                "longitude": -1.34624
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcrwg35w2s5d",
+            "brand": "Morrisons",
+            "address": "Tritton Road, Lincoln",
+            "postcode": "LN6 7QL",
+            "location": {
+                "latitude": 53.224361,
+                "longitude": -0.55547
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcqe46p3gb0t",
+            "brand": "Morrisons",
+            "address": "Wallows Lane, Walsall",
+            "postcode": "WS2 9BZ",
+            "location": {
+                "latitude": 52.569881,
+                "longitude": -2.00038
+            },
+            "prices": {
+                "E5": 161.7,
+                "E10": 151.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcycnbeqqr8h",
+            "brand": "Morrisons",
+            "address": "Collingwood Centre, North Shields",
+            "postcode": "NE29 9QR",
+            "location": {
+                "latitude": 55.023392,
+                "longitude": -1.45645
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcwgjvq2jhyz",
+            "brand": "Morrisons",
+            "address": "Hookstone Chase, Harrogate",
+            "postcode": "HG2 7LD",
+            "location": {
+                "latitude": 53.99371,
+                "longitude": -1.49632
+            },
+            "prices": {
+                "E10": 153.4,
+                "B7": 155.4
+            }
+        },
+        {
+            "site_id": "gctcfyjtwm34",
+            "brand": "Morrisons",
+            "address": "Squires Gate Lane, Blackpool",
+            "postcode": "FY4 2AY",
+            "location": {
+                "latitude": 53.779049,
+                "longitude": -3.03539
+            },
+            "prices": {
+                "E10": 146.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcrjr9mbxqcb",
+            "brand": "Morrisons",
+            "address": "4 Victoria Park Way, Nottingham",
+            "postcode": "NG4 2PA",
+            "location": {
+                "latitude": 52.96109,
+                "longitude": -1.06845
+            },
+            "prices": {
+                "E10": 148.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcq5cxpbcx79",
+            "brand": "Morrisons",
+            "address": "Whitchurch Road, Shrewsbury",
+            "postcode": "SY1 4DL",
+            "location": {
+                "latitude": 52.72905,
+                "longitude": -2.73587
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcqfp72y5n2h",
+            "brand": "Morrisons",
+            "address": "Skipworth Road, Coventry",
+            "postcode": "CV3 2XA",
+            "location": {
+                "latitude": 52.40173,
+                "longitude": -1.43805
+            },
+            "prices": {
+                "E5": 163.7,
+                "E10": 153.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcx89znvsstg",
+            "brand": "Morrisons",
+            "address": "Lakeside Parkway, Scunthorpe",
+            "postcode": "DN16 3UA",
+            "location": {
+                "latitude": 53.564812,
+                "longitude": -0.61675
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcqpthmkyjhs",
+            "brand": "Morrisons",
+            "address": "Greenalls Avenue, Warrington",
+            "postcode": "WA4 6RN",
+            "location": {
+                "latitude": 53.373798,
+                "longitude": -2.5853
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcwbn9w8u7wz",
+            "brand": "Morrisons",
+            "address": "299 The Common, Sheffield",
+            "postcode": "S35 9WJ",
+            "location": {
+                "latitude": 53.445889,
+                "longitude": -1.46305
+            },
+            "prices": {
+                "E10": 149.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcqg3cs3z58z",
+            "brand": "Morrisons",
+            "address": "Marlborough Way, Tamworth",
+            "postcode": "B77 2NY",
+            "location": {
+                "latitude": 52.611099,
+                "longitude": -1.67477
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gctgwejjv8hj",
+            "brand": "Morrisons",
+            "address": "Central Drive, Morecambe",
+            "postcode": "LA4 4DW",
+            "location": {
+                "latitude": 54.070202,
+                "longitude": -2.87131
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcxbsu6m9evv",
+            "brand": "Morrisons",
+            "address": "Hilmore Road, Grimsby",
+            "postcode": "DN37 7SQ",
+            "location": {
+                "latitude": 53.549702,
+                "longitude": -0.13966
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcxsw3xhkq1p",
+            "brand": "Morrisons",
+            "address": "Market Lane, Scarborough",
+            "postcode": "YO11 3YN",
+            "location": {
+                "latitude": 54.237518,
+                "longitude": -0.41867
+            },
+            "prices": {
+                "E5": 161.9,
+                "E10": 151.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcqnwu6yz710",
+            "brand": "Morrisons",
+            "address": "Nat Lane, Winsford",
+            "postcode": "CW7 3BS",
+            "location": {
+                "latitude": 53.198349,
+                "longitude": -2.51178
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcqvnsmh830d",
+            "brand": "Morrisons",
+            "address": "Wheatcroft Way, Derby",
+            "postcode": "DE21 4RX",
+            "location": {
+                "latitude": 52.93428,
+                "longitude": -1.46529
+            },
+            "prices": {
+                "E5": 156.7,
+                "E10": 146.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcwc0tk40c7m",
+            "brand": "Morrisons",
+            "address": "Penistone Road, Huddersfield",
+            "postcode": "HD5 8QW",
+            "location": {
+                "latitude": 53.642471,
+                "longitude": -1.73031
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcxnxwxvh5s1",
+            "brand": "Morrisons",
+            "address": "Lord Street, Redcar",
+            "postcode": "TS10 3ER",
+            "location": {
+                "latitude": 54.616661,
+                "longitude": -1.06584
+            },
+            "prices": {
+                "E10": 148.9,
+                "B7": 151.9
+            }
+        },
+        {
+            "site_id": "u12b1w28tp6q",
+            "brand": "Morrisons",
+            "address": "Sproughton Road, Ipswich",
+            "postcode": "IP1 5AH",
+            "location": {
+                "latitude": 52.065708,
+                "longitude": 1.12151
+            },
+            "prices": {
+                "E5": 153.7,
+                "E10": 143.7,
+                "B7": 144.7
+            }
+        },
+        {
+            "site_id": "gcjsmt6qgtu7",
+            "brand": "Morrisons",
+            "address": "Penny Way, Barry",
+            "postcode": "CF63 4BA",
+            "location": {
+                "latitude": 51.4021,
+                "longitude": -3.27068
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcrukvtmc7wx",
+            "brand": "Morrisons",
+            "address": "Wardentree Lane, Spalding",
+            "postcode": "PE11 3UG",
+            "location": {
+                "latitude": 52.80954,
+                "longitude": -0.13555
+            },
+            "prices": {
+                "E5": 159.9,
+                "E10": 149.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcnjhsnmhn3h",
+            "brand": "Morrisons",
+            "address": "Lysander Road, Bristol",
+            "postcode": "BS10 7UD",
+            "location": {
+                "latitude": 51.526772,
+                "longitude": -2.60599
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "u10hz73ghm8w",
+            "brand": "Morrisons",
+            "address": "1 London Road, Grays",
+            "postcode": "RM17 5XZ",
+            "location": {
+                "latitude": 51.478359,
+                "longitude": 0.32119
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "u12ettcuyh7w",
+            "brand": "Morrisons",
+            "address": "Station Road, East Dereham",
+            "postcode": "NR19 1DF",
+            "location": {
+                "latitude": 52.678909,
+                "longitude": 0.94749
+            },
+            "prices": {
+                "E10": 154.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcjv9bvvnhgp",
+            "brand": "Morrisons",
+            "address": "Azalea Road, Newport",
+            "postcode": "NP10 9SA",
+            "location": {
+                "latitude": 51.596802,
+                "longitude": -3.079
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcyby0uhur7c",
+            "brand": "Morrisons",
+            "address": "20 Viking Precinct, Jarrow",
+            "postcode": "NE32 3LQ",
+            "location": {
+                "latitude": 54.98056,
+                "longitude": -1.48846
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcwf5s81kb81",
+            "brand": "Morrisons",
+            "address": "Kirkstall, Leeds",
+            "postcode": "LS5 3RP",
+            "location": {
+                "latitude": 53.813999,
+                "longitude": -1.6038
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcqdt8d4prn5",
+            "brand": "Morrisons",
+            "address": "280 Coventry Road, Birmingham",
+            "postcode": "B10 0XA",
+            "location": {
+                "latitude": 52.473831,
+                "longitude": -1.86461
+            },
+            "prices": {
+                "E10": 145.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcybgbhqqx9s",
+            "brand": "Morrisons",
+            "address": "Shields Road, Newcastle upon Tyne",
+            "postcode": "NE6 1EJ",
+            "location": {
+                "latitude": 54.9767,
+                "longitude": -1.5869
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcpvydnsk3yy",
+            "brand": "Morrisons",
+            "address": "327 Southbury Road, Enfield",
+            "postcode": "EN1 1TW",
+            "location": {
+                "latitude": 51.647469,
+                "longitude": -0.0568
+            },
+            "prices": {
+                "E10": 146.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gcw2pgjy3grk",
+            "brand": "Morrisons",
+            "address": "Saxon Street, Manchester",
+            "postcode": "M34 3DS",
+            "location": {
+                "latitude": 53.45507,
+                "longitude": -2.11238
+            },
+            "prices": {
+                "E10": 145.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcteyd5gubhv",
+            "brand": "Morrisons",
+            "address": "The Strand, Barrow-in-Furness",
+            "postcode": "LA14 2HF",
+            "location": {
+                "latitude": 54.108311,
+                "longitude": -3.22462
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcjwwsts80me",
+            "brand": "Morrisons",
+            "address": "Beaufort Road, Ebbw Vale",
+            "postcode": "NP23 5WS",
+            "location": {
+                "latitude": 51.793072,
+                "longitude": -3.22242
+            },
+            "prices": {
+                "E10": 152.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcjm961b497v",
+            "brand": "Morrisons",
+            "address": "Christchurch Road, Port Talbot",
+            "postcode": "SA12 7BZ",
+            "location": {
+                "latitude": 51.602791,
+                "longitude": -3.80974
+            },
+            "prices": {
+                "E10": 151.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcmzwzhr8p7y",
+            "brand": "Morrisons",
+            "address": "1 Besford Road, Liverpool",
+            "postcode": "L25 2XT",
+            "location": {
+                "latitude": 53.389389,
+                "longitude": -2.86159
+            },
+            "prices": {
+                "E10": 143.7,
+                "B7": 145.7
+            }
+        },
+        {
+            "site_id": "gcwbwk3ufr73",
+            "brand": "Morrisons",
+            "address": "Lower Thomas Street, Barnsley",
+            "postcode": "S70 1LQ",
+            "location": {
+                "latitude": 53.549591,
+                "longitude": -1.48065
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcprvgjd5hr8",
+            "brand": "Morrisons",
+            "address": "4 Barnsdale Drive, Milton Keynes",
+            "postcode": "MK4 4DD",
+            "location": {
+                "latitude": 52.00415,
+                "longitude": -0.79431
+            },
+            "prices": {
+                "E5": 164.7,
+                "E10": 154.7,
+                "B7": 156.7
+            }
+        },
+        {
+            "site_id": "gcr35suqyg40",
+            "brand": "Morrisons",
+            "address": "26 Victoria Promenade, Northampton",
+            "postcode": "NN1 1HB",
+            "location": {
+                "latitude": 52.234299,
+                "longitude": -0.89475
+            },
+            "prices": {
+                "E10": 153.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcrp37tcpsbp",
+            "brand": "Morrisons",
+            "address": "1 Oxclose Park Road North, Sheffield",
+            "postcode": "S20 8GN",
+            "location": {
+                "latitude": 53.325088,
+                "longitude": -1.3431
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcybpu0737rh",
+            "brand": "Morrisons",
+            "address": "William Doxford Centre, Sunderland",
+            "postcode": "SR3 2NE",
+            "location": {
+                "latitude": 54.866299,
+                "longitude": -1.41683
+            },
+            "prices": {
+                "E10": 146.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "u12k15xe3vt8",
+            "brand": "Morrisons",
+            "address": "Coburg Street, Kings Lynn",
+            "postcode": "PE30 1QB",
+            "location": {
+                "latitude": 52.754189,
+                "longitude": 0.40589
+            },
+            "prices": {
+                "E10": 153.7,
+                "B7": 156.7
+            }
+        },
+        {
+            "site_id": "gcw6m90g4w2s",
+            "brand": "Morrisons",
+            "address": "Pendle Street, Nelson",
+            "postcode": "BB9 7UZ",
+            "location": {
+                "latitude": 53.83905,
+                "longitude": -2.2181
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcw017xbkccn",
+            "brand": "Morrisons",
+            "address": "Boundary Road, St Helens",
+            "postcode": "WA10 2PX",
+            "location": {
+                "latitude": 53.456779,
+                "longitude": -2.74672
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcr01svvj8p0",
+            "brand": "Morrisons",
+            "address": "Swan Close Road, Banbury",
+            "postcode": "OX16 5AQ",
+            "location": {
+                "latitude": 52.058201,
+                "longitude": -1.33219
+            },
+            "prices": {
+                "E10": 146.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcx9y2kegnw4",
+            "brand": "Morrisons",
+            "address": "Springfield Way, Hull",
+            "postcode": "HU10 6RJ",
+            "location": {
+                "latitude": 53.747169,
+                "longitude": -0.42215
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcx58nn11du3",
+            "brand": "Morrisons",
+            "address": "Wetherby Road, York",
+            "postcode": "YO51 9HS",
+            "location": {
+                "latitude": 54.08588,
+                "longitude": -1.39794
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcxcc76j7cfq",
+            "brand": "Morrisons",
+            "address": "716-718 Holderness Road, Hull",
+            "postcode": "HU9 3JA",
+            "location": {
+                "latitude": 53.763882,
+                "longitude": -0.29372
+            },
+            "prices": {
+                "E10": 153.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcx4b3rs55ec",
+            "brand": "Morrisons",
+            "address": "7 The Horsefair Centre, Wetherby",
+            "postcode": "LS22 6FL",
+            "location": {
+                "latitude": 53.928471,
+                "longitude": -1.38483
+            },
+            "prices": {
+                "E5": 166.9,
+                "E10": 156.9,
+                "B7": 159.9
+            }
+        },
+        {
+            "site_id": "gcr6p75x9p7q",
+            "brand": "Morrisons",
+            "address": "Lower Street, Kettering",
+            "postcode": "NN16 8AN",
+            "location": {
+                "latitude": 52.40062,
+                "longitude": -0.73123
+            },
+            "prices": {
+                "E5": 154.7,
+                "E10": 144.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcx02kkpcgez",
+            "brand": "Morrisons",
+            "address": "Corton Wood, Barnsley",
+            "postcode": "S73 0TB",
+            "location": {
+                "latitude": 53.506142,
+                "longitude": -1.38969
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "u10hu5wt8r3n",
+            "brand": "Morrisons",
+            "address": "James Watt Way, Erith",
+            "postcode": "DA8 2AH",
+            "location": {
+                "latitude": 51.480171,
+                "longitude": 0.18472
+            },
+            "prices": {
+                "E10": 154.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcrr6e9tbjg5",
+            "brand": "Morrisons",
+            "address": "Idle Valley Road, Retford",
+            "postcode": "DN22 7XD",
+            "location": {
+                "latitude": 53.325909,
+                "longitude": -0.94276
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "u12gmsnd56ve",
+            "brand": "Morrisons",
+            "address": "4 Albion Way, Norwich",
+            "postcode": "NR1 1WU",
+            "location": {
+                "latitude": 52.62487,
+                "longitude": 1.30546
+            },
+            "prices": {
+                "E5": 161.7,
+                "E10": 151.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcr981j7867r",
+            "brand": "Morrisons",
+            "address": "2-5 Oxford Street, Wellingborough",
+            "postcode": "NN8 4LL",
+            "location": {
+                "latitude": 52.301029,
+                "longitude": -0.6959
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcuu3ecc1pn7",
+            "brand": "Morrisons",
+            "address": "West Langlands Street, Kilmarnock",
+            "postcode": "KA1 2PY",
+            "location": {
+                "latitude": 55.611629,
+                "longitude": -4.50194
+            },
+            "prices": {
+                "E10": 146.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcrcn6jq2td2",
+            "brand": "Morrisons",
+            "address": "Broad Street, Cambridge",
+            "postcode": "CB23 6EY",
+            "location": {
+                "latitude": 52.21912,
+                "longitude": -0.06967
+            },
+            "prices": {
+                "E10": 157.9,
+                "B7": 160.9
+            }
+        },
+        {
+            "site_id": "gcw80f96cu7n",
+            "brand": "Morrisons",
+            "address": "Mottram Road, Hyde",
+            "postcode": "SK14 2NG",
+            "location": {
+                "latitude": 53.451729,
+                "longitude": -2.07462
+            },
+            "prices": {
+                "E10": 144.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcqq04m5615z",
+            "brand": "Morrisons",
+            "address": "Dunwoody Way, Crewe",
+            "postcode": "CW1 3AW",
+            "location": {
+                "latitude": 53.098862,
+                "longitude": -2.45398
+            },
+            "prices": {
+                "E10": 152.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcrjsfjn6hv9",
+            "brand": "Morrisons",
+            "address": "Leen Drive, Nottingham",
+            "postcode": "NG6 8EP",
+            "location": {
+                "latitude": 53.010132,
+                "longitude": -1.19055
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcqry17bfvvg",
+            "brand": "Morrisons",
+            "address": "Edgeley Road, Stockport",
+            "postcode": "SK3 0RJ",
+            "location": {
+                "latitude": 53.400581,
+                "longitude": -2.19199
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcx0tc6d5z05",
+            "brand": "Morrisons",
+            "address": "York Road, Doncaster",
+            "postcode": "DN5 8XG",
+            "location": {
+                "latitude": 53.532639,
+                "longitude": -1.14997
+            },
+            "prices": {
+                "E5": 161.7,
+                "E10": 151.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcwyjv4twy51",
+            "brand": "Morrisons",
+            "address": "Morton Park Way, Darlington",
+            "postcode": "DL1 4PJ",
+            "location": {
+                "latitude": 54.52063,
+                "longitude": -1.5014
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcqu64fj21gy",
+            "brand": "Morrisons",
+            "address": "Wellington Road, Burton-on-Trent",
+            "postcode": "DE14 2AR",
+            "location": {
+                "latitude": 52.794338,
+                "longitude": -1.66717
+            },
+            "prices": {
+                "E5": 164.9,
+                "E10": 154.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcqmth33bm4t",
+            "brand": "Morrisons",
+            "address": "Lower Milehouse Lane, Newcastle-under-Lyme",
+            "postcode": "ST5 9AL",
+            "location": {
+                "latitude": 53.021721,
+                "longitude": -2.23948
+            },
+            "prices": {
+                "E10": 144.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcxnksde8914",
+            "brand": "Morrisons",
+            "address": "Berwick Hills Centre, Middlesbrough",
+            "postcode": "TS3 7PB",
+            "location": {
+                "latitude": 54.561459,
+                "longitude": -1.20504
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcmx2d4bkscc",
+            "brand": "Morrisons",
+            "address": "Marsh Road, Rhyl",
+            "postcode": "LL18 2DF",
+            "location": {
+                "latitude": 53.316719,
+                "longitude": -3.48968
+            },
+            "prices": {
+                "E10": 153.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcjjy92xc5sr",
+            "brand": "Morrisons",
+            "address": "Pentre-Chwyth, Swansea",
+            "postcode": "SA1 7DF",
+            "location": {
+                "latitude": 51.643959,
+                "longitude": -3.93237
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcmywnxxyv0u",
+            "brand": "Morrisons",
+            "address": "Mill Lane, Chester",
+            "postcode": "CH2 1BT",
+            "location": {
+                "latitude": 53.210892,
+                "longitude": -2.8898
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 151.9
+            }
+        },
+        {
+            "site_id": "gcxph7t1v0ch",
+            "brand": "Morrisons",
+            "address": "Clarence Road, Hartlepool",
+            "postcode": "TS24 8BZ",
+            "location": {
+                "latitude": 54.6875,
+                "longitude": -1.2124
+            },
+            "prices": {
+                "E10": 145.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcwgvk91je81",
+            "brand": "Morrisons",
+            "address": "Harrogate Road, Ripon",
+            "postcode": "HG4 2SB",
+            "location": {
+                "latitude": 54.12159,
+                "longitude": -1.52549
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gctc5mzm8cc0",
+            "brand": "Morrisons",
+            "address": "Winter Gardens, Southport",
+            "postcode": "PR8 1RH",
+            "location": {
+                "latitude": 53.645821,
+                "longitude": -3.01125
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcvq9g0dygtp",
+            "brand": "Morrisons",
+            "address": "Hope Street, Falkirk",
+            "postcode": "FK1 5BU",
+            "location": {
+                "latitude": 56.0033,
+                "longitude": -3.7893
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcwf4fbr1veq",
+            "brand": "Morrisons",
+            "address": "Swinnow Road, Leeds",
+            "postcode": "LS13 4DN",
+            "location": {
+                "latitude": 53.805401,
+                "longitude": -1.63654
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcmzrrk6zx29",
+            "brand": "Morrisons",
+            "address": "1 Penketh Drive, Liverpool",
+            "postcode": "L24 2WZ",
+            "location": {
+                "latitude": 53.346001,
+                "longitude": -2.8393
+            },
+            "prices": {
+                "E5": 153.7,
+                "E10": 143.7,
+                "B7": 145.7
+            }
+        },
+        {
+            "site_id": "gcuvet2nrpdk",
+            "brand": "Morrisons",
+            "address": "Anchor Mills, Paisley",
+            "postcode": "PA1 1GZ",
+            "location": {
+                "latitude": 55.8405,
+                "longitude": -4.4162
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "u10k75y326tv",
+            "brand": "Morrisons",
+            "address": "Knight Road, Rochester",
+            "postcode": "ME2 2AA",
+            "location": {
+                "latitude": 51.392899,
+                "longitude": 0.492
+            },
+            "prices": {
+                "E10": 153.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcnhky32tdmr",
+            "brand": "Morrisons",
+            "address": "Peterson Avenue, Bristol",
+            "postcode": "BS13 0BE",
+            "location": {
+                "latitude": 51.406502,
+                "longitude": -2.6018
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcx1e91xd75w",
+            "brand": "Morrisons",
+            "address": "Marine Villa Road, Knottingley",
+            "postcode": "WF11 8ER",
+            "location": {
+                "latitude": 53.70797,
+                "longitude": -1.25028
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gfjckfswjdhu",
+            "brand": "Morrisons",
+            "address": "1 Afton Way, Dundee",
+            "postcode": "DD4 8BR",
+            "location": {
+                "latitude": 56.484501,
+                "longitude": -2.9489
+            },
+            "prices": {
+                "E5": 155.7,
+                "E10": 145.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcvwqnrz4y3s",
+            "brand": "Morrisons",
+            "address": "3 Waterfront Broadway, Edinburgh",
+            "postcode": "EH5 1SA",
+            "location": {
+                "latitude": 55.977951,
+                "longitude": -3.24119
+            },
+            "prices": {
+                "E5": 162.7,
+                "E10": 152.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcvj7fbxw304",
+            "brand": "Morrisons",
+            "address": "5 New Park Street, Hamilton",
+            "postcode": "ML3 0BN",
+            "location": {
+                "latitude": 55.783001,
+                "longitude": -4.053
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcw2eubs3cpz",
+            "brand": "Morrisons",
+            "address": "5 Stanley Road, Manchester",
+            "postcode": "M45 8QH",
+            "location": {
+                "latitude": 53.552219,
+                "longitude": -2.29537
+            },
+            "prices": {
+                "E5": 156.7,
+                "E10": 146.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcvmzu7yx9p4",
+            "brand": "Morrisons",
+            "address": "Almondvale Road, Livingston",
+            "postcode": "EH54 6DB",
+            "location": {
+                "latitude": 55.87896,
+                "longitude": -3.52113
+            },
+            "prices": {
+                "E10": 155.7,
+                "B7": 159.7
+            }
+        },
+        {
+            "site_id": "gcw16xtwq8e9",
+            "brand": "Morrisons",
+            "address": "Olympian Way, Leyland",
+            "postcode": "PR25 3UR",
+            "location": {
+                "latitude": 53.699501,
+                "longitude": -2.6948
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcvjf6ew7bs1",
+            "brand": "Morrisons",
+            "address": "20 Auchinlea Way, Glasgow",
+            "postcode": "G34 9JJ",
+            "location": {
+                "latitude": 55.869301,
+                "longitude": -4.1149
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcqdcyxr68t3",
+            "brand": "Morrisons",
+            "address": "239 Holyhead Road, Wednesbury",
+            "postcode": "WS10 7BD",
+            "location": {
+                "latitude": 52.551601,
+                "longitude": -2.0224
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcx4zwushnqk",
+            "brand": "Morrisons",
+            "address": "Foss Islands Road, York",
+            "postcode": "YO31 7UL",
+            "location": {
+                "latitude": 53.958698,
+                "longitude": -1.0703
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcuv9jp5vzvx",
+            "brand": "Morrisons",
+            "address": "30 Napier Street, Johnstone",
+            "postcode": "PA5 8SF",
+            "location": {
+                "latitude": 55.838699,
+                "longitude": -4.5165
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcjsxw9b2wzv",
+            "brand": "Morrisons",
+            "address": "International Sports Village, Cardiff",
+            "postcode": "CF11 0JP",
+            "location": {
+                "latitude": 51.451801,
+                "longitude": -3.1836
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "u1047xj5dzmn",
+            "brand": "Morrisons",
+            "address": "Pine Grove, Crowborough",
+            "postcode": "TN6 1DP",
+            "location": {
+                "latitude": 51.059601,
+                "longitude": 0.1608
+            },
+            "prices": {
+                "E5": 157.9,
+                "E10": 147.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcquhwgdtg5y",
+            "brand": "Morrisons",
+            "address": "Coppice Side, Swadlincote",
+            "postcode": "DE11 9AA",
+            "location": {
+                "latitude": 52.7719,
+                "longitude": -1.555
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gfnt0k61xgzj",
+            "brand": "Morrisons",
+            "address": "215 King Street, Aberdeen",
+            "postcode": "AB24 5DA",
+            "location": {
+                "latitude": 57.152531,
+                "longitude": -2.0953
+            },
+            "prices": {
+                "E5": 154.7,
+                "E10": 145.7,
+                "B7": 145.7
+            }
+        },
+        {
+            "site_id": "gcvjv99nsgft",
+            "brand": "Morrisons",
+            "address": "Gartlea Road, Airdrie",
+            "postcode": "ML6 9JL",
+            "location": {
+                "latitude": 55.863869,
+                "longitude": -3.97547
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcvr4p74bxup",
+            "brand": "Morrisons",
+            "address": "Clackmannan Road, Alloa",
+            "postcode": "FK10 1RY",
+            "location": {
+                "latitude": 56.114559,
+                "longitude": -3.77515
+            },
+            "prices": {
+                "E5": 161.7,
+                "E10": 151.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gfkbpqc8g0pv",
+            "brand": "Morrisons",
+            "address": "Dalmore Road, Alness",
+            "postcode": "IV17 0UY",
+            "location": {
+                "latitude": 57.693459,
+                "longitude": -4.24951
+            },
+            "prices": {
+                "E10": 148.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gfn1v0ssb81t",
+            "brand": "Morrisons",
+            "address": "Hume Street, Arbroath",
+            "postcode": "DD11 1UH",
+            "location": {
+                "latitude": 56.56118,
+                "longitude": -2.58657
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcueqxrscjy5",
+            "brand": "Morrisons",
+            "address": "Castlehill Road, Ayr",
+            "postcode": "KA7 2HT",
+            "location": {
+                "latitude": 55.455711,
+                "longitude": -4.62588
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 147.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcjvg6f98c5d",
+            "brand": "Morrisons",
+            "address": "Grange Road, Cwmbran",
+            "postcode": "NP44 3XU",
+            "location": {
+                "latitude": 51.651112,
+                "longitude": -3.01777
+            },
+            "prices": {
+                "E5": 153.9,
+                "E10": 143.9,
+                "B7": 149.9
+            }
+        },
+        {
+            "site_id": "gcvjs3qv57d3",
+            "brand": "Morrisons",
+            "address": "John Street, Bellshill",
+            "postcode": "ML4 1RJ",
+            "location": {
+                "latitude": 55.818291,
+                "longitude": -4.02257
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcyt65hw6sv9",
+            "brand": "Morrisons",
+            "address": "Loaning Meadows, Berwick-upon-Tweed",
+            "postcode": "TD15 1UQ",
+            "location": {
+                "latitude": 55.78418,
+                "longitude": -2.01519
+            },
+            "prices": {
+                "E5": 165.7,
+                "E10": 155.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcuy0py6ytpu",
+            "brand": "Morrisons",
+            "address": "Glasgow Road, Dumbarton",
+            "postcode": "G82 1QZ",
+            "location": {
+                "latitude": 55.941509,
+                "longitude": -4.56144
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 150.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcv3q1hcweft",
+            "brand": "Morrisons",
+            "address": "Brooms Road, Dumfries",
+            "postcode": "DG1 2SH",
+            "location": {
+                "latitude": 55.069248,
+                "longitude": -3.59671
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcvj0e2v5qmu",
+            "brand": "Morrisons",
+            "address": "Lindsayfield, Glasgow",
+            "postcode": "G75 8TU",
+            "location": {
+                "latitude": 55.741402,
+                "longitude": -4.1956
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 151.9
+            }
+        },
+        {
+            "site_id": "gcvj237gjrn5",
+            "brand": "Morrisons",
+            "address": "2 MacNeish Way, Glasgow",
+            "postcode": "G74 4TT",
+            "location": {
+                "latitude": 55.774021,
+                "longitude": -4.20238
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 151.9
+            }
+        },
+        {
+            "site_id": "gcvwqmrstgpw",
+            "brand": "Morrisons",
+            "address": "102 Pilton Drive, Edinburgh",
+            "postcode": "EH5 2HF",
+            "location": {
+                "latitude": 55.972012,
+                "longitude": -3.23041
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcvy06qfxb6g",
+            "brand": "Morrisons",
+            "address": "Gilmerton Road, Edinburgh",
+            "postcode": "EH17 7JH",
+            "location": {
+                "latitude": 55.911228,
+                "longitude": -3.14347
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gcvy26r9vm0v",
+            "brand": "Morrisons",
+            "address": "Portobello Road, Edinburgh",
+            "postcode": "EH8 7BQ",
+            "location": {
+                "latitude": 55.95507,
+                "longitude": -3.14255
+            },
+            "prices": {
+                "E5": 162.7,
+                "E10": 152.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcvwhx69dgzm",
+            "brand": "Morrisons",
+            "address": "South Gyle Broadway, Edinburgh",
+            "postcode": "EH12 9JU",
+            "location": {
+                "latitude": 55.938541,
+                "longitude": -3.31431
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gfh77b1rmcnz",
+            "brand": "Morrisons",
+            "address": "An Aird Road, Fort William",
+            "postcode": "PH33 6AN",
+            "location": {
+                "latitude": 56.82254,
+                "longitude": -5.10667
+            },
+            "prices": {
+                "E5": 164.9,
+                "E10": 154.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gcuvvwvhs75q",
+            "brand": "Morrisons",
+            "address": "900 Crow Road, Glasgow",
+            "postcode": "G13 1JD",
+            "location": {
+                "latitude": 55.892361,
+                "longitude": -4.32156
+            },
+            "prices": {
+                "E5": 165.7,
+                "E10": 150.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcvjdx6k4mxw",
+            "brand": "Morrisons",
+            "address": "Ravenswood Road, Glasgow",
+            "postcode": "G69 7HU",
+            "location": {
+                "latitude": 55.851089,
+                "longitude": -4.10569
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcvj91f66wjx",
+            "brand": "Morrisons",
+            "address": "1 Bridge Street, Glasgow",
+            "postcode": "G72 7EA",
+            "location": {
+                "latitude": 55.82058,
+                "longitude": -4.1716
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcuvw6k7xnj9",
+            "brand": "Morrisons",
+            "address": "117 Riverford Road, Glasgow",
+            "postcode": "G43 1PU",
+            "location": {
+                "latitude": 55.82354,
+                "longitude": -4.28951
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 146.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcvz8nsd7je0",
+            "brand": "Morrisons",
+            "address": "Flemington Road, Glenrothes",
+            "postcode": "KY7 5QF",
+            "location": {
+                "latitude": 56.198231,
+                "longitude": -3.15775
+            },
+            "prices": {
+                "E5": 156.7,
+                "E10": 146.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcuw7bqgb0pv",
+            "brand": "Morrisons",
+            "address": "Rue End Street, Greenock",
+            "postcode": "PA15 1HA",
+            "location": {
+                "latitude": 55.944401,
+                "longitude": -4.7478
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 148.9
+            }
+        },
+        {
+            "site_id": "gcy52dn1d9pd",
+            "brand": "Morrisons",
+            "address": "Mart Street, Hawick",
+            "postcode": "TD9 9NQ",
+            "location": {
+                "latitude": 55.426289,
+                "longitude": -2.78217
+            },
+            "prices": {
+                "E5": 161.9,
+                "E10": 151.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gfhyzzzgrnfj",
+            "brand": "Morrisons",
+            "address": "Millburn Road, Inverness",
+            "postcode": "IV2 3PX",
+            "location": {
+                "latitude": 57.479691,
+                "longitude": -4.21879
+            },
+            "prices": {
+                "E10": 152.7,
+                "B7": 158.7
+            }
+        },
+        {
+            "site_id": "gfnmcs1rsnbb",
+            "brand": "Morrisons",
+            "address": "Blackhall Road, Inverurie",
+            "postcode": "AB51 4JP",
+            "location": {
+                "latitude": 57.284039,
+                "longitude": -2.39313
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcuve76zhvxq",
+            "brand": "Morrisons",
+            "address": "Falside Road, Paisley",
+            "postcode": "PA2 6JE",
+            "location": {
+                "latitude": 55.829632,
+                "longitude": -4.4235
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gfj8cdtvkxts",
+            "brand": "Morrisons",
+            "address": "Caledonian Road, Perth",
+            "postcode": "PH1 5XD",
+            "location": {
+                "latitude": 56.396511,
+                "longitude": -3.44161
+            },
+            "prices": {
+                "E5": 161.7,
+                "E10": 151.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gfnxpmc93cuy",
+            "brand": "Morrisons",
+            "address": "Queen Street, Peterhead",
+            "postcode": "AB42 1HH",
+            "location": {
+                "latitude": 57.51228,
+                "longitude": -1.78863
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gfn02n5dx31f",
+            "brand": "Morrisons",
+            "address": "45 Largo Road, St Andrews",
+            "postcode": "KY16 8PJ",
+            "location": {
+                "latitude": 56.327339,
+                "longitude": -2.80738
+            },
+            "prices": {
+                "E5": 166.9,
+                "E10": 156.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcuss4jzphvr",
+            "brand": "Morrisons",
+            "address": "Kilwinning Road, Stevenston",
+            "postcode": "KA20 3DE",
+            "location": {
+                "latitude": 55.64698,
+                "longitude": -4.73789
+            },
+            "prices": {
+                "E5": 159.9,
+                "E10": 149.9,
+                "B7": 149.9
+            }
+        },
+        {
+            "site_id": "gcvpnzjmryuv",
+            "brand": "Morrisons",
+            "address": "Munro Road, Stirling",
+            "postcode": "FK7 7UU",
+            "location": {
+                "latitude": 56.113609,
+                "longitude": -3.91457
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gcu2mep8q2x9",
+            "brand": "Morrisons",
+            "address": "London Road, Stranraer",
+            "postcode": "DG9 8ES",
+            "location": {
+                "latitude": 54.904221,
+                "longitude": -5.02116
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcuevzdm5dph",
+            "brand": "Morrisons",
+            "address": "10 Dukes Road, Troon",
+            "postcode": "KA10 6QR",
+            "location": {
+                "latitude": 55.544998,
+                "longitude": -4.66594
+            },
+            "prices": {
+                "E10": 147.9,
+                "B7": 147.9
+            }
+        },
+        {
+            "site_id": "gcvjqctwsy19",
+            "brand": "Morrisons",
+            "address": "160 Kirk Road, Wishaw",
+            "postcode": "ML2 7BJ",
+            "location": {
+                "latitude": 55.77599,
+                "longitude": -3.91436
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcy8n0z4k2tc",
+            "brand": "Morrisons",
+            "address": "Front Street, Consett",
+            "postcode": "DH8 5RE",
+            "location": {
+                "latitude": 54.848259,
+                "longitude": -1.8359
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcybf62y2cfq",
+            "brand": "Morrisons",
+            "address": "200 Two Ball Lonnen, Newcastle upon Tyne",
+            "postcode": "NE4 9SZ",
+            "location": {
+                "latitude": 54.989029,
+                "longitude": -1.65787
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcycngwp1djs",
+            "brand": "Morrisons",
+            "address": "Hillheads Road, Whitley Bay",
+            "postcode": "NE25 8HN",
+            "location": {
+                "latitude": 55.03997,
+                "longitude": -1.45287
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcqwuww2uhkw",
+            "brand": "Morrisons",
+            "address": "Bakewell Road, Buxton",
+            "postcode": "SK17 9TB",
+            "location": {
+                "latitude": 53.253632,
+                "longitude": -1.90286
+            },
+            "prices": {
+                "E5": 166.9,
+                "E10": 156.9,
+                "B7": 159.9
+            }
+        },
+        {
+            "site_id": "gcqxke98272k",
+            "brand": "Morrisons",
+            "address": "Market Street, High Peak",
+            "postcode": "SK23 0HZ",
+            "location": {
+                "latitude": 53.324951,
+                "longitude": -1.90955
+            },
+            "prices": {
+                "E10": 157.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcmzjcbdx1b0",
+            "brand": "Morrisons",
+            "address": "Chester Road, Ellesmere Port",
+            "postcode": "CH65 6RX",
+            "location": {
+                "latitude": 53.27177,
+                "longitude": -2.91039
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gcw2cqqtqup6",
+            "brand": "Morrisons",
+            "address": "Lea Gate, Bolton",
+            "postcode": "BL2 3HN",
+            "location": {
+                "latitude": 53.604591,
+                "longitude": -2.39678
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcwncprdmhzc",
+            "brand": "Morrisons",
+            "address": "Brunswick Road, Penrith",
+            "postcode": "CA11 7JU",
+            "location": {
+                "latitude": 54.664261,
+                "longitude": -2.75803
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 159.9
+            }
+        },
+        {
+            "site_id": "gcqrzv5twksg",
+            "brand": "Morrisons",
+            "address": "Stockport Road West, Stockport",
+            "postcode": "SK6 2BR",
+            "location": {
+                "latitude": 53.421989,
+                "longitude": -2.11528
+            },
+            "prices": {
+                "E5": 155.7,
+                "E10": 145.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcw26vgegury",
+            "brand": "Morrisons",
+            "address": "49 Swinton Hall Road, Salford",
+            "postcode": "M27 4BT",
+            "location": {
+                "latitude": 53.513699,
+                "longitude": -2.33511
+            },
+            "prices": {
+                "E5": 157.9,
+                "E10": 147.9,
+                "B7": 148.9
+            }
+        },
+        {
+            "site_id": "gctf7pmmt5ct",
+            "brand": "Morrisons",
+            "address": "Amounderness Way, Thornton-Cleveleys",
+            "postcode": "FY5 3TS",
+            "location": {
+                "latitude": 53.873798,
+                "longitude": -3.0248
+            },
+            "prices": {
+                "E10": 150.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcmxxs0rhsyx",
+            "brand": "Morrisons",
+            "address": "Dee Lane, West Kirby",
+            "postcode": "CH48 0QA",
+            "location": {
+                "latitude": 53.37281,
+                "longitude": -3.18549
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gctqq3qwrgrs",
+            "brand": "Morrisons",
+            "address": "Flatt Walks, Whitehaven",
+            "postcode": "CA28 7RW",
+            "location": {
+                "latitude": 54.54409,
+                "longitude": -3.58326
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 156.7
+            }
+        },
+        {
+            "site_id": "gctqygkb5h78",
+            "brand": "Morrisons",
+            "address": "Derwent Drive, Workington",
+            "postcode": "CA14 3UG",
+            "location": {
+                "latitude": 54.641899,
+                "longitude": -3.5639
+            },
+            "prices": {
+                "E10": 152.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcxgehyqgwd6",
+            "brand": "Morrisons",
+            "address": "Bessingby Road, Bridlington",
+            "postcode": "YO16 4SJ",
+            "location": {
+                "latitude": 54.080021,
+                "longitude": -0.21099
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcqyyfs16ncv",
+            "brand": "Morrisons",
+            "address": "Chatsworth Road, Chesterfield",
+            "postcode": "S40 3BQ",
+            "location": {
+                "latitude": 53.231758,
+                "longitude": -1.4556
+            },
+            "prices": {
+                "E5": 164.9,
+                "E10": 154.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcw8vumzm6tv",
+            "brand": "Morrisons",
+            "address": "Station Street, Holmfirth",
+            "postcode": "HD9 5QR",
+            "location": {
+                "latitude": 53.593941,
+                "longitude": -1.84856
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 148.9
+            }
+        },
+        {
+            "site_id": "gcqzqm9hd7gm",
+            "brand": "Morrisons",
+            "address": "84-130 Meadowhead, Sheffield",
+            "postcode": "S8 7UE",
+            "location": {
+                "latitude": 53.33667,
+                "longitude": -1.48168
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcqvwhjtxc5d",
+            "brand": "Morrisons",
+            "address": "Chapel Street, Belper",
+            "postcode": "DE56 1YA",
+            "location": {
+                "latitude": 53.020969,
+                "longitude": -1.48625
+            },
+            "prices": {
+                "E10": 148.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gcr6xct0gmhh",
+            "brand": "Morrisons",
+            "address": "Oakley Road, Corby",
+            "postcode": "NN18 8LH",
+            "location": {
+                "latitude": 52.479099,
+                "longitude": -0.7071
+            },
+            "prices": {
+                "E5": 162.7,
+                "E10": 152.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcr4bx1hcywd",
+            "brand": "Morrisons",
+            "address": "Normandy Way, Hinckley",
+            "postcode": "LE10 1YA",
+            "location": {
+                "latitude": 52.553951,
+                "longitude": -1.38282
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcr5q5nx0e81",
+            "brand": "Morrisons",
+            "address": "Aylestone Road, Leicester",
+            "postcode": "LE2 7LT",
+            "location": {
+                "latitude": 52.620239,
+                "longitude": -1.13363
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcrh7b0v0s6b",
+            "brand": "Morrisons",
+            "address": "Gorse Covert Centre, Loughborough",
+            "postcode": "LE11 4RZ",
+            "location": {
+                "latitude": 52.779202,
+                "longitude": -1.2404
+            },
+            "prices": {
+                "E10": 151.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcr3k1kmbgtx",
+            "brand": "Morrisons",
+            "address": "Kettering Road, Northampton",
+            "postcode": "NN3 6AA",
+            "location": {
+                "latitude": 52.25885,
+                "longitude": -0.87303
+            },
+            "prices": {
+                "E5": 166.9,
+                "E10": 156.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcrjnfw9up2c",
+            "brand": "Morrisons",
+            "address": "Gamston, Nottingham",
+            "postcode": "NG2 6PS",
+            "location": {
+                "latitude": 52.924229,
+                "longitude": -1.10052
+            },
+            "prices": {
+                "E5": 156.7,
+                "E10": 146.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcrjd5scky1z",
+            "brand": "Morrisons",
+            "address": "Derby Road, Nottingham",
+            "postcode": "NG16 3NT",
+            "location": {
+                "latitude": 53.017521,
+                "longitude": -1.31163
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcm457vtu04j",
+            "brand": "Morrisons",
+            "address": "Parcydolau, Aberystwyth",
+            "postcode": "SY23 3RN",
+            "location": {
+                "latitude": 52.4044,
+                "longitude": -4.0682
+            },
+            "prices": {
+                "E10": 151.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcq9959401kv",
+            "brand": "Morrisons",
+            "address": "Buntsford Park Road, Bromsgrove",
+            "postcode": "B60 3DX",
+            "location": {
+                "latitude": 52.314499,
+                "longitude": -2.06405
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 160.9
+            }
+        },
+        {
+            "site_id": "gcqeevnpveep",
+            "brand": "Morrisons",
+            "address": "High Street, Burntwood",
+            "postcode": "WS7 8XP",
+            "location": {
+                "latitude": 52.675301,
+                "longitude": -1.9361
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcqdxv782kc1",
+            "brand": "Morrisons",
+            "address": "264 Chester Road, Birmingham",
+            "postcode": "B36 0LB",
+            "location": {
+                "latitude": 52.499611,
+                "longitude": -1.76398
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcqfjjkmnxzf",
+            "brand": "Morrisons",
+            "address": "Holyhead Road, Coventry",
+            "postcode": "CV5 8BX",
+            "location": {
+                "latitude": 52.412552,
+                "longitude": -1.53196
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcq878z7fxfp",
+            "brand": "Morrisons",
+            "address": "Davies Road, Evesham",
+            "postcode": "WR11 1FN",
+            "location": {
+                "latitude": 52.080002,
+                "longitude": -1.9455
+            },
+            "prices": {
+                "E5": 164.9,
+                "E10": 154.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcq6wy80rms0",
+            "brand": "Morrisons",
+            "address": "Charterfield Shopping Centre, Kingswinford",
+            "postcode": "DY6 7SH",
+            "location": {
+                "latitude": 52.506481,
+                "longitude": -2.16399
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcqw1dxgxm64",
+            "brand": "Morrisons",
+            "address": "Newcastle Road, Leek",
+            "postcode": "ST13 5QB",
+            "location": {
+                "latitude": 53.1003,
+                "longitude": -2.0325
+            },
+            "prices": {
+                "E5": 157.9,
+                "E10": 147.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcq1171qxh95",
+            "brand": "Morrisons",
+            "address": "Barons Cross Road, Leominster",
+            "postcode": "HR6 8RN",
+            "location": {
+                "latitude": 52.224651,
+                "longitude": -2.75555
+            },
+            "prices": {
+                "E5": 168.9,
+                "E10": 158.9,
+                "B7": 160.9
+            }
+        },
+        {
+            "site_id": "gcqewpt6r1fn",
+            "brand": "Morrisons",
+            "address": "Beacon Street, Lichfield",
+            "postcode": "WS13 7BG",
+            "location": {
+                "latitude": 52.68808,
+                "longitude": -1.83819
+            },
+            "prices": {
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcq2ed51xwv2",
+            "brand": "Morrisons",
+            "address": "Roman Way, Malvern",
+            "postcode": "WR14 1PZ",
+            "location": {
+                "latitude": 52.130421,
+                "longitude": -2.30268
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcqjysjsew19",
+            "brand": "Morrisons",
+            "address": "Station Road, Nantwich",
+            "postcode": "CW5 5SP",
+            "location": {
+                "latitude": 53.06477,
+                "longitude": -2.51915
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcqmt3f5dp3w",
+            "brand": "Morrisons",
+            "address": "Goose Street, Newcastle-under-Lyme",
+            "postcode": "ST5 3HY",
+            "location": {
+                "latitude": 53.008301,
+                "longitude": -2.22739
+            },
+            "prices": {
+                "E5": 154.7,
+                "E10": 144.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcq9s95pkzts",
+            "brand": "Morrisons",
+            "address": "Warwick Highway, Redditch",
+            "postcode": "B98 0SW",
+            "location": {
+                "latitude": 52.301701,
+                "longitude": -1.90729
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcnpm71b1cqt",
+            "brand": "Morrisons",
+            "address": "1 Station Street, Ross-on-Wye",
+            "postcode": "HR9 7YB",
+            "location": {
+                "latitude": 51.915901,
+                "longitude": -2.5793
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 160.9
+            }
+        },
+        {
+            "site_id": "gcqd46qnw4rz",
+            "brand": "Morrisons",
+            "address": "Rubery, Birmingham",
+            "postcode": "B45 9NY",
+            "location": {
+                "latitude": 52.396301,
+                "longitude": -2.00199
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcqkznwe8f3p",
+            "brand": "Morrisons",
+            "address": "Mill St/Church St, Stone",
+            "postcode": "ST15 8BA",
+            "location": {
+                "latitude": 52.902531,
+                "longitude": -2.14436
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcqbbvswmmw0",
+            "brand": "Morrisons",
+            "address": "Alcester Road, Stratford-upon-Avon",
+            "postcode": "CV37 9DA",
+            "location": {
+                "latitude": 52.194401,
+                "longitude": -1.71844
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcjx7pcu8n6v",
+            "brand": "Morrisons",
+            "address": "Watton, Brecon",
+            "postcode": "LD3 7EN",
+            "location": {
+                "latitude": 51.942793,
+                "longitude": -3.381382
+            },
+            "prices": {
+                "E10": 153.9,
+                "B7": 159.9
+            }
+        },
+        {
+            "site_id": "gckyqg5spmen",
+            "brand": "Morrisons",
+            "address": "North Road, Caernarfon",
+            "postcode": "LL55 1BE",
+            "location": {
+                "latitude": 53.147079,
+                "longitude": -4.26856
+            },
+            "prices": {
+                "E10": 153.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcjtqv1tz54b",
+            "brand": "Morrisons",
+            "address": "Castle Court, Caerphilly",
+            "postcode": "CF83 1NU",
+            "location": {
+                "latitude": 51.576321,
+                "longitude": -3.21663
+            },
+            "prices": {
+                "E10": 147.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcjtphj54c6m",
+            "brand": "Morrisons",
+            "address": "Ty Glas Road, Cardiff",
+            "postcode": "CF14 5EB",
+            "location": {
+                "latitude": 51.526402,
+                "longitude": -3.20102
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gchyvynfy0zh",
+            "brand": "Morrisons",
+            "address": "Parc Pensarn, Camarthen",
+            "postcode": "SA31 2NF",
+            "location": {
+                "latitude": 51.844959,
+                "longitude": -4.30809
+            },
+            "prices": {
+                "E10": 150.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcmwd16jsrkn",
+            "brand": "Morrisons",
+            "address": "Smithfield Road, Denbigh",
+            "postcode": "LL16 3RQ",
+            "location": {
+                "latitude": 53.181679,
+                "longitude": -3.4248
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gchqwznpfzq9",
+            "brand": "Morrisons",
+            "address": "Bridge Meadow Lane, Haverfordwest",
+            "postcode": "SA61 2EX",
+            "location": {
+                "latitude": 51.8074,
+                "longitude": -4.96844
+            },
+            "prices": {
+                "E10": 154.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcjmcmhtvwx6",
+            "brand": "Morrisons",
+            "address": "Angel Street, Neath",
+            "postcode": "SA11 1RS",
+            "location": {
+                "latitude": 51.66423,
+                "longitude": -3.80583
+            },
+            "prices": {
+                "E10": 147.9,
+                "B7": 149.9
+            }
+        },
+        {
+            "site_id": "u1347y8x9jk4",
+            "brand": "Morrisons",
+            "address": "George Westwood Way, Beccles",
+            "postcode": "NR34 9EJ",
+            "location": {
+                "latitude": 52.463779,
+                "longitude": 1.57178
+            },
+            "prices": {
+                "E5": 164.9,
+                "E10": 154.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "u10mhec8hwru",
+            "brand": "Morrisons",
+            "address": "Northwick Road, Canvey Island",
+            "postcode": "SS8 0PT",
+            "location": {
+                "latitude": 51.52454,
+                "longitude": 0.55158
+            },
+            "prices": {
+                "E5": 161.9,
+                "E10": 151.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "u10yf1m5q1vy",
+            "brand": "Morrisons",
+            "address": "Centenary Way, Clacton-on-Sea",
+            "postcode": "CO16 9SB",
+            "location": {
+                "latitude": 51.818958,
+                "longitude": 1.14971
+            },
+            "prices": {
+                "E5": 162.7,
+                "E10": 152.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "u12vj7sy66xm",
+            "brand": "Morrisons",
+            "address": "Holt Road, Cromer",
+            "postcode": "NR27 9SW",
+            "location": {
+                "latitude": 52.93047,
+                "longitude": 1.29203
+            },
+            "prices": {
+                "E10": 152.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "u12ccnr3qd9m",
+            "brand": "Morrisons",
+            "address": "Victoria Road, Diss",
+            "postcode": "IP22 4XF",
+            "location": {
+                "latitude": 52.373428,
+                "longitude": 1.10887
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "u12seg1vsq53",
+            "brand": "Morrisons",
+            "address": "Clipbush Lane, Fakenham",
+            "postcode": "NR21 8SW",
+            "location": {
+                "latitude": 52.839722,
+                "longitude": 0.87051
+            },
+            "prices": {
+                "E5": 194.9,
+                "E10": 160.9,
+                "B7": 161.9
+            }
+        },
+        {
+            "site_id": "u10zwhn8qw5z",
+            "brand": "Morrisons",
+            "address": "Grange Farm Avenue, Felixstowe",
+            "postcode": "IP11 2XD",
+            "location": {
+                "latitude": 51.965408,
+                "longitude": 1.32757
+            },
+            "prices": {
+                "E5": 154.9,
+                "E10": 144.9,
+                "B7": 147.9
+            }
+        },
+        {
+            "site_id": "u10zkxc5311z",
+            "brand": "Morrisons",
+            "address": "Iconfield Park, Harwich",
+            "postcode": "CO12 4PB",
+            "location": {
+                "latitude": 51.942551,
+                "longitude": 1.25386
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "u134r5q949qv",
+            "brand": "Morrisons",
+            "address": "18 Tower Road, Lowestoft",
+            "postcode": "NR33 7NG",
+            "location": {
+                "latitude": 52.44479,
+                "longitude": 1.72291
+            },
+            "prices": {
+                "E5": 165.7,
+                "E10": 155.7,
+                "B7": 156.7
+            }
+        },
+        {
+            "site_id": "u10qpp7u2cnp",
+            "brand": "Morrisons",
+            "address": "Limebrook Way, Maldon",
+            "postcode": "CM9 6GG",
+            "location": {
+                "latitude": 51.720249,
+                "longitude": 0.66437
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcrg1zt8f1wg",
+            "brand": "Morrisons",
+            "address": "Lincoln Road, Peterborough",
+            "postcode": "PE4 6WS",
+            "location": {
+                "latitude": 52.59993,
+                "longitude": -0.26701
+            },
+            "prices": {
+                "E5": 156.9,
+                "E10": 146.9,
+                "B7": 151.9
+            }
+        },
+        {
+            "site_id": "u12nrd9d4jeq",
+            "brand": "Morrisons",
+            "address": "Wainfleet Road, Skegness",
+            "postcode": "PE25 3QT",
+            "location": {
+                "latitude": 53.14399,
+                "longitude": 0.33174
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "u10qwx3qkh5d",
+            "brand": "Morrisons",
+            "address": "Braintree Road, Witham",
+            "postcode": "CM8 2BY",
+            "location": {
+                "latitude": 51.808498,
+                "longitude": 0.6391
+            },
+            "prices": {
+                "E5": 161.9,
+                "E10": 151.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "u10g8jwrd91d",
+            "brand": "Morrisons",
+            "address": "Ten Perch Road, Canterbury",
+            "postcode": "CT1 3TQ",
+            "location": {
+                "latitude": 51.27174,
+                "longitude": 1.06338
+            },
+            "prices": {
+                "E5": 164.7,
+                "E10": 154.7,
+                "B7": 156.7
+            }
+        },
+        {
+            "site_id": "u10khhtvg9x5",
+            "brand": "Morrisons",
+            "address": "Walderslade, Chatham",
+            "postcode": "ME5 8BA",
+            "location": {
+                "latitude": 51.35384,
+                "longitude": 0.5354
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "u10k80dp2ynx",
+            "brand": "Morrisons",
+            "address": "Coldharbour Road, Gravesend",
+            "postcode": "DA11 8AB",
+            "location": {
+                "latitude": 51.42004,
+                "longitude": 0.35435
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcpmwzff9z7w",
+            "brand": "Morrisons",
+            "address": "Temple End, High Wycombe",
+            "postcode": "HP13 5XX",
+            "location": {
+                "latitude": 51.634838,
+                "longitude": -0.7542
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcpx34fk63fq",
+            "brand": "Morrisons",
+            "address": "Lake Street, Leighton Buzzard",
+            "postcode": "LU7 1WS",
+            "location": {
+                "latitude": 51.91526,
+                "longitude": -0.65599
+            },
+            "prices": {
+                "E10": 147.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcpuy6q42n5r",
+            "brand": "Morrisons",
+            "address": "Aylesham Centre, Rye Lane, Peckham",
+            "postcode": "SE15 5EW",
+            "location": {
+                "latitude": 51.47274,
+                "longitude": -0.06866
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcpv9809c25j",
+            "brand": "Morrisons",
+            "address": "Honeypot Lane, Brent",
+            "postcode": "NW9 9RL",
+            "location": {
+                "latitude": 51.592098,
+                "longitude": -0.2849
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "u10j427zqc4x",
+            "brand": "Morrisons",
+            "address": "2 Twin Tumps Way, Thamesmead",
+            "postcode": "SE28 8RD",
+            "location": {
+                "latitude": 51.506531,
+                "longitude": 0.10432
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "u107s3nkdr2n",
+            "brand": "Morrisons",
+            "address": "Sutton Road, Maidstone",
+            "postcode": "ME15 9NN",
+            "location": {
+                "latitude": 51.24654,
+                "longitude": 0.54701
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcpy2vj6jkyr",
+            "brand": "Morrisons",
+            "address": "244 Hatfield Road, St Albans",
+            "postcode": "AL1 4SU",
+            "location": {
+                "latitude": 51.751469,
+                "longitude": -0.31116
+            },
+            "prices": {
+                "E5": 153.9,
+                "E10": 143.9,
+                "B7": 147.9
+            }
+        },
+        {
+            "site_id": "gcpyevv20hvz",
+            "brand": "Morrisons",
+            "address": "40 Black Fan Road, Welwyn Garden City",
+            "postcode": "AL7 1RY",
+            "location": {
+                "latitude": 51.799191,
+                "longitude": -0.17955
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcj4222ueg1y",
+            "brand": "Morrisons",
+            "address": "Kingsley Road, Bideford",
+            "postcode": "EX39 2LG",
+            "location": {
+                "latitude": 51.022671,
+                "longitude": -4.20657
+            },
+            "prices": {
+                "E5": 185.9,
+                "E10": 152.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gbuxhgkys6qz",
+            "brand": "Morrisons",
+            "address": "Priory Road, Bodmin",
+            "postcode": "PL31 2ST",
+            "location": {
+                "latitude": 50.468201,
+                "longitude": -4.70642
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcjfgdvn8cgb",
+            "brand": "Morrisons",
+            "address": "The Broadway, Bridgwater",
+            "postcode": "TA6 3LN",
+            "location": {
+                "latitude": 51.12463,
+                "longitude": -3.00335
+            },
+            "prices": {
+                "E5": 153.7,
+                "E10": 143.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcnhy7kn60d1",
+            "brand": "Morrisons",
+            "address": "668-718 Fishponds Road, Bristol",
+            "postcode": "BS16 3US",
+            "location": {
+                "latitude": 51.478889,
+                "longitude": -2.53226
+            },
+            "prices": {
+                "E5": 159.9,
+                "E10": 149.9,
+                "B7": 151.9
+            }
+        },
+        {
+            "site_id": "gchc0uyxr0sc",
+            "brand": "Morrisons",
+            "address": "Stucley Road, Bude",
+            "postcode": "EX23 8UA",
+            "location": {
+                "latitude": 50.828121,
+                "longitude": -4.52812
+            },
+            "prices": {
+                "E10": 157.9,
+                "B7": 159.9
+            }
+        },
+        {
+            "site_id": "gcnx0h945p45",
+            "brand": "Morrisons",
+            "address": "Caernarvon Road, Cheltenham",
+            "postcode": "GL51 3BW",
+            "location": {
+                "latitude": 51.880569,
+                "longitude": -2.10787
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcn4fng2pbdw",
+            "brand": "Morrisons",
+            "address": "Street Road, Glastonbury",
+            "postcode": "BA6 9ED",
+            "location": {
+                "latitude": 51.145481,
+                "longitude": -2.71981
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gbuz48qqjxp7",
+            "brand": "Morrisons",
+            "address": "Horningtops, Liskeard",
+            "postcode": "PL14 3PR",
+            "location": {
+                "latitude": 50.45166,
+                "longitude": -4.45162
+            },
+            "prices": {
+                "E10": 153.7,
+                "B7": 156.7
+            }
+        },
+        {
+            "site_id": "gbuqsz8z2ekk",
+            "brand": "Morrisons",
+            "address": "Treloggan Road, Newquay",
+            "postcode": "TR7 2GZ",
+            "location": {
+                "latitude": 50.40379,
+                "longitude": -5.06364
+            },
+            "prices": {
+                "E10": 153.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gbvqy7vvnjsn",
+            "brand": "Morrisons",
+            "address": "Totnes Road, Paignton",
+            "postcode": "TQ4 7ET",
+            "location": {
+                "latitude": 50.426762,
+                "longitude": -3.58437
+            },
+            "prices": {
+                "E5": 155.9,
+                "E10": 145.9,
+                "B7": 151.9
+            }
+        },
+        {
+            "site_id": "gbuj4t3r5rbd",
+            "brand": "Morrisons",
+            "address": "Eastern Way, Penzance",
+            "postcode": "TR18 3RF",
+            "location": {
+                "latitude": 50.127739,
+                "longitude": -5.51328
+            },
+            "prices": {
+                "E10": 151.4,
+                "B7": 153.4
+            }
+        },
+        {
+            "site_id": "gbvnd8wpqpxh",
+            "brand": "Morrisons",
+            "address": "Pomphlett Road, Plymouth",
+            "postcode": "PL9 7BH",
+            "location": {
+                "latitude": 50.36536,
+                "longitude": -4.10038
+            },
+            "prices": {
+                "E10": 151.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gbum8rbkp2tn",
+            "brand": "Morrisons",
+            "address": "Pool, Redruth",
+            "postcode": "TR15 3NH",
+            "location": {
+                "latitude": 50.228809,
+                "longitude": -5.26179
+            },
+            "prices": {
+                "E5": 161.7,
+                "E10": 151.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcjf1rvhxb37",
+            "brand": "Morrisons",
+            "address": "Priory Bridge Road, Taunton",
+            "postcode": "TA1 1DX",
+            "location": {
+                "latitude": 51.019909,
+                "longitude": -3.10193
+            },
+            "prices": {
+                "E5": 154.7,
+                "E10": 144.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gbvp98j1hv9n",
+            "brand": "Morrisons",
+            "address": "128-130 Plymouth Road, Tavistock",
+            "postcode": "PL19 9DS",
+            "location": {
+                "latitude": 50.537312,
+                "longitude": -4.14576
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gcnrz32j33px",
+            "brand": "Morrisons",
+            "address": "Ashchurch Road, Tewkesbury",
+            "postcode": "GL20 8AB",
+            "location": {
+                "latitude": 51.995079,
+                "longitude": -2.14227
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcj98e9tt1vb",
+            "brand": "Morrisons",
+            "address": "Kennedy Way, Tiverton",
+            "postcode": "EX16 6RZ",
+            "location": {
+                "latitude": 50.908852,
+                "longitude": -3.49137
+            },
+            "prices": {
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gbvquhv7v987",
+            "brand": "Morrisons",
+            "address": "Coronation Road, Totnes",
+            "postcode": "TQ9 5DF",
+            "location": {
+                "latitude": 50.432018,
+                "longitude": -3.68396
+            },
+            "prices": {
+                "E10": 147.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcn7q317nd4u",
+            "brand": "Morrisons",
+            "address": "Weymouth Street, Warminster",
+            "postcode": "BA12 9NT",
+            "location": {
+                "latitude": 51.202309,
+                "longitude": -2.18428
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 160.9
+            }
+        },
+        {
+            "site_id": "gcjujsw1mvsb",
+            "brand": "Morrisons",
+            "address": "Locking Castle, Weston-super-Mare",
+            "postcode": "BS24 7AY",
+            "location": {
+                "latitude": 51.353088,
+                "longitude": -2.91387
+            },
+            "prices": {
+                "E5": 163.7,
+                "E10": 153.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcn63jejztzg",
+            "brand": "Morrisons",
+            "address": "Southgate Road, Wincanton",
+            "postcode": "BA9 9EB",
+            "location": {
+                "latitude": 51.051739,
+                "longitude": -2.41254
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcnm0yzwhfgd",
+            "brand": "Morrisons",
+            "address": "Station Road, Bristol",
+            "postcode": "BS37 5PW",
+            "location": {
+                "latitude": 51.54203,
+                "longitude": -2.41747
+            },
+            "prices": {
+                "E10": 151.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "gcn1g8rqv7xr",
+            "brand": "Morrisons",
+            "address": "Lysander Road, Yeovil",
+            "postcode": "BA20 2AU",
+            "location": {
+                "latitude": 50.935169,
+                "longitude": -2.6485
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcp5wu5ec7wx",
+            "brand": "Morrisons",
+            "address": "Worting Road, Basingstoke",
+            "postcode": "RG21 8BJ",
+            "location": {
+                "latitude": 51.262871,
+                "longitude": -1.10475
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcn0963n235p",
+            "brand": "Morrisons",
+            "address": "West Bay Road, Bridport",
+            "postcode": "DT6 4SB",
+            "location": {
+                "latitude": 50.72633,
+                "longitude": -2.75618
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 150.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcnkze09zmpk",
+            "brand": "Morrisons",
+            "address": "Cepen Park North, Chippenham",
+            "postcode": "SN14 6UZ",
+            "location": {
+                "latitude": 51.476768,
+                "longitude": -2.13034
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcp7y16eqwft",
+            "brand": "Morrisons",
+            "address": "Summit Avenue, Farnborough",
+            "postcode": "GU14 0NA",
+            "location": {
+                "latitude": 51.291641,
+                "longitude": -0.7873
+            },
+            "prices": {
+                "E5": 159.9,
+                "E10": 149.9,
+                "B7": 153.9
+            }
+        },
+        {
+            "site_id": "u103m6c1s3y8",
+            "brand": "Morrisons",
+            "address": "Queens Road, Hastings",
+            "postcode": "TN34 1RN",
+            "location": {
+                "latitude": 50.8601,
+                "longitude": 0.58384
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcp395t44vty",
+            "brand": "Morrisons",
+            "address": "Lakesmere Road, Horndean",
+            "postcode": "PO8 9FB",
+            "location": {
+                "latitude": 50.908272,
+                "longitude": -1.00375
+            },
+            "prices": {
+                "E10": 150.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcp06te2n8eq",
+            "brand": "Morrisons",
+            "address": "South Street, Newport",
+            "postcode": "PO30 1JQ",
+            "location": {
+                "latitude": 50.699162,
+                "longitude": -1.29164
+            },
+            "prices": {
+                "E10": 148.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcpk9gm36nvt",
+            "brand": "Morrisons",
+            "address": "Off Basingstoke Road, Reading",
+            "postcode": "RG2 0HB",
+            "location": {
+                "latitude": 51.43412,
+                "longitude": -0.97048
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcp0j5ftf473",
+            "brand": "Morrisons",
+            "address": "Newport Road, Sandown",
+            "postcode": "PO36 9PA",
+            "location": {
+                "latitude": 50.646599,
+                "longitude": -1.183
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "u100f68nz21m",
+            "brand": "Morrisons",
+            "address": "Dane Road, Seaford",
+            "postcode": "BN25 1DL",
+            "location": {
+                "latitude": 50.771729,
+                "longitude": 0.09919
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcnctq5t8c0d",
+            "brand": "Morrisons",
+            "address": "Spruce Drive, Southampton",
+            "postcode": "SO40 8AD",
+            "location": {
+                "latitude": 50.922581,
+                "longitude": -1.52226
+            },
+            "prices": {
+                "E5": 170.9,
+                "E10": 160.9,
+                "B7": 160.9
+            }
+        },
+        {
+            "site_id": "gcn0pctm0zc6",
+            "brand": "Morrisons",
+            "address": "Dorchester Road, Weymouth",
+            "postcode": "DT3 5AX",
+            "location": {
+                "latitude": 50.63414,
+                "longitude": -2.46468
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcpegjcrhn2s",
+            "brand": "Morrisons",
+            "address": "82 Goldsworth Road, Woking",
+            "postcode": "GU21 6ND",
+            "location": {
+                "latitude": 51.317001,
+                "longitude": -0.5694
+            },
+            "prices": {
+                "E5": 185.9,
+                "E10": 149.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcje31ktzzm9",
+            "brand": "Morrisons",
+            "address": "Vulcan Road, Minehead",
+            "postcode": "TA24 6DG",
+            "location": {
+                "latitude": 51.204182,
+                "longitude": -3.46516
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcycce59enyb",
+            "brand": "Morrisons",
+            "address": "Dark Lane, Morpeth",
+            "postcode": "NE61 1ST",
+            "location": {
+                "latitude": 55.16814,
+                "longitude": -1.68695
+            },
+            "prices": {
+                "E5": 188.9,
+                "E10": 152.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcw2h1p2tjf2",
+            "brand": "Morrisons",
+            "address": "418A Wilbraham Road, Manchester",
+            "postcode": "M21 0SD",
+            "location": {
+                "latitude": 53.44311,
+                "longitude": -2.274982
+            },
+            "prices": {
+                "E5": 155.7,
+                "E10": 145.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcpvf1z5vd61",
+            "brand": "Morrisons",
+            "address": "Stirling Way, Borehamwood",
+            "postcode": "WD6 2BT",
+            "location": {
+                "latitude": 51.646011,
+                "longitude": -0.25382
+            },
+            "prices": {
+                "E5": 162.7,
+                "E10": 152.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcw2nwqwc7dp",
+            "brand": "Morrisons",
+            "address": "1 Lime Square, Openshaw",
+            "postcode": "M11 1DA",
+            "location": {
+                "latitude": 53.473011,
+                "longitude": -2.16631
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "gcqhzrtzcgex",
+            "brand": "Morrisons",
+            "address": "Maer Lane, Market Drayton",
+            "postcode": "TF9 3AL",
+            "location": {
+                "latitude": 52.90876,
+                "longitude": -2.48592
+            },
+            "prices": {
+                "E5": 164.9,
+                "E10": 154.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gcmdv00ztu95",
+            "brand": "Morrisons",
+            "address": "Pool Road, Newtown",
+            "postcode": "SY16 3AH",
+            "location": {
+                "latitude": 52.515961,
+                "longitude": -3.29462
+            },
+            "prices": {
+                "E5": 161.9,
+                "E10": 151.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcw3cr3zu18e",
+            "brand": "Morrisons",
+            "address": "Queen Street, Blackburn",
+            "postcode": "BB6 7AL",
+            "location": {
+                "latitude": 53.786282,
+                "longitude": -2.40343
+            },
+            "prices": {
+                "E10": 152.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcvqj053ecj4",
+            "brand": "Morrisons",
+            "address": "2 Linkston Way, Bathgate",
+            "postcode": "EH48 7XN",
+            "location": {
+                "latitude": 55.898701,
+                "longitude": -3.64283
+            },
+            "prices": {
+                "E5": 162.7,
+                "E10": 152.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcrfgnp3kyut",
+            "brand": "Morrisons",
+            "address": "Bellona Drive, Peterborough",
+            "postcode": "PE2 8GP",
+            "location": {
+                "latitude": 52.547859,
+                "longitude": -0.20956
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcmudv3sepv3",
+            "brand": "Morrisons",
+            "address": "Smithfields Livestock Market, Oswestry",
+            "postcode": "SY11 4QA",
+            "location": {
+                "latitude": 52.851919,
+                "longitude": -3.041017
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcmvg86d1dhs",
+            "brand": "Morrisons",
+            "address": "Ruthin Road, Wrexham",
+            "postcode": "LL13 7TU",
+            "location": {
+                "latitude": 53.04372,
+                "longitude": -3.00675
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gckxnzn30xp5",
+            "brand": "Morrisons",
+            "address": "Penrhos, Holyhead",
+            "postcode": "LL65 2UQ",
+            "location": {
+                "latitude": 53.300381,
+                "longitude": -4.61663
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcp7u3ns8yc0",
+            "brand": "Morrisons",
+            "address": "Elvetham Heath, Fleet",
+            "postcode": "GU51 1HA",
+            "location": {
+                "latitude": 51.290482,
+                "longitude": -0.85896
+            },
+            "prices": {
+                "E10": 157.9,
+                "B7": 159.9
+            }
+        },
+        {
+            "site_id": "gcqe1kcs3bw1",
+            "brand": "Morrisons",
+            "address": "Middle Piece Way, Willenhall",
+            "postcode": "WV13 1QG",
+            "location": {
+                "latitude": 52.585419,
+                "longitude": -2.0523
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "eykjw5bzy2zk",
+            "brand": "Morrisons",
+            "address": "Westside Road, ",
+            "postcode": "GX11 1AA",
+            "location": {
+                "latitude": 36.144981,
+                "longitude": -5.36002
+            },
+            "prices": {
+                "E5": 129.9,
+                "E10": 111.9,
+                "B7": 111.9
+            }
+        },
+        {
+            "site_id": "gcjubx0qup79",
+            "brand": "Morrisons",
+            "address": "507 Newport Road, Cardiff",
+            "postcode": "CF23 9YG",
+            "location": {
+                "latitude": 51.499611,
+                "longitude": -3.14157
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcrnky7sgt4m",
+            "brand": "Morrisons",
+            "address": "Woodhouse Centre, Mansfield",
+            "postcode": "NG19 8AN",
+            "location": {
+                "latitude": 53.165058,
+                "longitude": -1.19255
+            },
+            "prices": {
+                "E5": 185.7,
+                "E10": 147.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcw9uc5c4png",
+            "brand": "Morrisons",
+            "address": "Keighley Road, Halifax",
+            "postcode": "HX2 8HY",
+            "location": {
+                "latitude": 53.75082,
+                "longitude": -1.89539
+            },
+            "prices": {
+                "E10": 149.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcuypckdn4k7",
+            "brand": "Morrisons",
+            "address": "Kirkintilloch Road, Glasgow",
+            "postcode": "G64 2LS",
+            "location": {
+                "latitude": 55.90566,
+                "longitude": -4.223293
+            },
+            "prices": {
+                "E5": 166.7,
+                "E10": 151.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcj887bdw5gm",
+            "brand": "Morrisons",
+            "address": "Prince Charles Road, Exeter",
+            "postcode": "EX4 7BY",
+            "location": {
+                "latitude": 50.73394,
+                "longitude": -3.50369
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcw0q3md22tc",
+            "brand": "Morrisons",
+            "address": "Sale Way, Leigh",
+            "postcode": "WN7 4JY",
+            "location": {
+                "latitude": 53.488701,
+                "longitude": -2.53027
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "u125ebuqtcc2",
+            "brand": "Morrisons",
+            "address": "Elm High Road, Wisbech",
+            "postcode": "PE14 0DG",
+            "location": {
+                "latitude": 52.65173,
+                "longitude": 0.17088
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcw9qjr3cndf",
+            "brand": "Morrisons",
+            "address": "4 Jubilee Way, Halifax",
+            "postcode": "HX5 9DY",
+            "location": {
+                "latitude": 53.686401,
+                "longitude": -1.8357
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 148.7
+            }
+        },
+        {
+            "site_id": "u100yrpzd63x",
+            "brand": "Morrisons",
+            "address": "Lottbridge Drove, Eastbourne",
+            "postcode": "BN23 6QN",
+            "location": {
+                "latitude": 50.796589,
+                "longitude": 0.2854
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcqckyhbp4y7",
+            "brand": "Morrisons",
+            "address": "Old Warwick Road, Leamington Spa",
+            "postcode": "CV31 3NT",
+            "location": {
+                "latitude": 52.283951,
+                "longitude": -1.54224
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 150.7
+            }
+        },
+        {
+            "site_id": "gcp7w3xmkhbc",
+            "brand": "Morrisons",
+            "address": "Alexandra Road, Aldershot",
+            "postcode": "GU11 1WF",
+            "location": {
+                "latitude": 51.249401,
+                "longitude": -0.7699
+            },
+            "prices": {
+                "E5": 162.9,
+                "E10": 152.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcqdrs2rr34c",
+            "brand": "Morrisons",
+            "address": "2259-2297 Coventry Road, Sheldon",
+            "postcode": "B26 3PD",
+            "location": {
+                "latitude": 52.451354,
+                "longitude": -1.779127
+            },
+            "prices": {
+                "E5": 158.9,
+                "E10": 148.9,
+                "B7": 150.9
+            }
+        },
+        {
+            "site_id": "gcw1ghdxrequ",
+            "brand": "Morrisons",
+            "address": "88-91 Blackpool Road, Preston",
+            "postcode": "PR2 6BX",
+            "location": {
+                "latitude": 53.771099,
+                "longitude": -2.6769
+            },
+            "prices": {
+                "E5": 156.7,
+                "E10": 146.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "u10s0dgz8ebv",
+            "brand": "Morrisons",
+            "address": "Mill Way, Sittingbourne",
+            "postcode": "ME10 3ET",
+            "location": {
+                "latitude": 51.34454,
+                "longitude": 0.73027
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcn579rpnrzd",
+            "brand": "Morrisons",
+            "address": "Parkwood Estate (off East Somerset Way), Wells",
+            "postcode": "BA5 1SQ",
+            "location": {
+                "latitude": 51.204399,
+                "longitude": -2.6488
+            },
+            "prices": {
+                "E5": 165.9,
+                "E10": 155.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gbvrxczgq5ru",
+            "brand": "Morrisons",
+            "address": "Newfoundland Road, Teignmouth",
+            "postcode": "TQ14 9DN",
+            "location": {
+                "latitude": 50.547298,
+                "longitude": -3.5157
+            },
+            "prices": {
+                "E5": 156.9,
+                "E10": 146.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcx0qdbxdecj",
+            "brand": "Morrisons",
+            "address": "First Point, Doncaster",
+            "postcode": "DN4 8SJ",
+            "location": {
+                "latitude": 53.49786,
+                "longitude": -1.11981
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 153.7
+            }
+        },
+        {
+            "site_id": "gcyb9jf4z2pj",
+            "brand": "Morrisons",
+            "address": "Shibdon Road, Blaydon-on-Tyne",
+            "postcode": "NE21 5QE",
+            "location": {
+                "latitude": 54.963699,
+                "longitude": -1.7108
+            },
+            "prices": {
+                "E5": 162.7,
+                "E10": 152.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "u10s3qb5v9t7",
+            "brand": "Morrisons",
+            "address": "Neats Court, Isle of Sheppey",
+            "postcode": "ME11 5JS",
+            "location": {
+                "latitude": 51.409801,
+                "longitude": 0.7583
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gcjwn995uv4k",
+            "brand": "Morrisons",
+            "address": "Bargoed Gateway, Bargoed",
+            "postcode": "CF81 8QT",
+            "location": {
+                "latitude": 51.688599,
+                "longitude": -3.2284
+            },
+            "prices": {
+                "E5": 161.7,
+                "E10": 151.7,
+                "B7": 154.7
+            }
+        },
+        {
+            "site_id": "gcnrj2ucpp0e",
+            "brand": "Morrisons",
+            "address": "Metz Way, Gloucester",
+            "postcode": "GL1 1DS",
+            "location": {
+                "latitude": 51.859798,
+                "longitude": -2.2234
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 149.7
+            }
+        },
+        {
+            "site_id": "gcrpq8ssnhq0",
+            "brand": "Morrisons",
+            "address": "Kilton Road, Worksop",
+            "postcode": "S80 2EE",
+            "location": {
+                "latitude": 53.30912,
+                "longitude": -1.11416
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 150.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcvz0h1w2ncv",
+            "brand": "Morrisons",
+            "address": "The Esplanade, Kirkcaldy",
+            "postcode": "KY1 1SL",
+            "location": {
+                "latitude": 56.097301,
+                "longitude": -3.162
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 152.7
+            }
+        },
+        {
+            "site_id": "gcx9dvpbwqg0",
+            "brand": "Morrisons",
+            "address": "Welton Road, Brough",
+            "postcode": "HU15 1AF",
+            "location": {
+                "latitude": 53.72876,
+                "longitude": -0.57136
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 161.9
+            }
+        },
+        {
+            "site_id": "gcr8t323ryut",
+            "brand": "Morrisons",
+            "address": "Ampthill Road, Bedford",
+            "postcode": "MK42 9JP",
+            "location": {
+                "latitude": 52.126259,
+                "longitude": -0.47173
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 155.9
+            }
+        },
+        {
+            "site_id": "gcp95ege00xq",
+            "brand": "Morrisons",
+            "address": "Hawthorn Road, Littlehampton",
+            "postcode": "BN17 7LR",
+            "location": {
+                "latitude": 50.821899,
+                "longitude": -0.5445
+            },
+            "prices": {
+                "E5": 164.9,
+                "E10": 154.9,
+                "B7": 154.9
+            }
+        },
+        {
+            "site_id": "gcn9mmf5fww4",
+            "brand": "Morrisons",
+            "address": "Chiltern Drive, Verwood",
+            "postcode": "BH31 6UQ",
+            "location": {
+                "latitude": 50.876991,
+                "longitude": -1.8758
+            },
+            "prices": {
+                "E5": 163.9,
+                "E10": 153.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcrcwwt3bk1u",
+            "brand": "Morrisons",
+            "address": "Parsons Green, Cambridge",
+            "postcode": "PE27 4NB",
+            "location": {
+                "latitude": 52.33095,
+                "longitude": -0.058695
+            },
+            "prices": {
+                "E5": 167.9,
+                "E10": 157.9,
+                "B7": 158.9
+            }
+        },
+        {
+            "site_id": "gfnhxddb16pk",
+            "brand": "Morrisons",
+            "address": "North Deeside Road, Banchory",
+            "postcode": "AB31 5YR",
+            "location": {
+                "latitude": 57.05476,
+                "longitude": -2.47907
+            },
+            "prices": {
+                "E10": 157.9,
+                "B7": 157.9
+            }
+        },
+        {
+            "site_id": "gcyfspbsvtpg",
+            "brand": "Morrisons",
+            "address": "She, Amble",
+            "postcode": "NE65 0FQ",
+            "location": {
+                "latitude": 55.326618,
+                "longitude": -1.581098
+            },
+            "prices": {
+                "E5": 160.9,
+                "E10": 150.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcr5s8gpj157",
+            "brand": "Morrisons",
+            "address": "Station Road, Leicester",
+            "postcode": "LE3 8BQ",
+            "location": {
+                "latitude": 52.651812,
+                "longitude": -1.204157
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "u135ntj71ffp",
+            "brand": "Morrisons",
+            "address": "Burgh Road, Great Yarmouth",
+            "postcode": "NR31 9ER",
+            "location": {
+                "latitude": 52.58659,
+                "longitude": 1.699182
+            },
+            "prices": {
+                "E5": 164.7,
+                "E10": 154.7,
+                "B7": 155.7
+            }
+        },
+        {
+            "site_id": "gcuy20n5vjm3",
+            "brand": "Morrisons",
+            "address": "Cardross Road, Helensburgh",
+            "postcode": "G84 7LB",
+            "location": {
+                "latitude": 55.943055,
+                "longitude": -4.561851
+            },
+            "prices": {
+                "E5": 169.9,
+                "E10": 154.9,
+                "B7": 156.9
+            }
+        },
+        {
+            "site_id": "gcxpbdxdgbn9",
+            "brand": "Morrisons",
+            "address": "Church Street, Seaham",
+            "postcode": "SR7 9HU",
+            "location": {
+                "latitude": 54.81401,
+                "longitude": -1.373808
+            },
+            "prices": {
+                "E5": 157.9,
+                "E10": 147.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gcrj664hwevt",
+            "brand": "Morrisons",
+            "address": "107 Nottingham Road, Ilkeston",
+            "postcode": "DE7 5NN",
+            "location": {
+                "latitude": 52.965881,
+                "longitude": -1.30434
+            },
+            "prices": {
+                "E5": 157.7,
+                "E10": 147.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcmyt2bb8gjw",
+            "brand": "Morrisons",
+            "address": "High Street, Chester",
+            "postcode": "CH4 8RU",
+            "location": {
+                "latitude": 53.178051,
+                "longitude": -2.93228
+            },
+            "prices": {
+                "E5": 161.9,
+                "E10": 151.9,
+                "B7": 152.9
+            }
+        },
+        {
+            "site_id": "gctbq26886rx",
+            "brand": "Morrisons",
+            "address": "Irlam Drive, Kirkby",
+            "postcode": "L32 8US",
+            "location": {
+                "latitude": 53.482918,
+                "longitude": -2.88595
+            },
+            "prices": {
+                "E5": 158.7,
+                "E10": 148.7,
+                "B7": 151.7
+            }
+        },
+        {
+            "site_id": "gcxnurdxrbpz",
+            "brand": "Morrisons",
+            "address": "Belle Vue Way, Hartlepool",
+            "postcode": "TS25 1JZ",
+            "location": {
+                "latitude": 54.666468,
+                "longitude": -1.215706
+            },
+            "prices": {
+                "E10": 145.7,
+                "B7": 146.7
+            }
+        },
+        {
+            "site_id": "gcjjczs7b5nb",
+            "brand": "Morrisons",
+            "address": "Pemberton Retail Park, Llanelli",
+            "postcode": "SA14 9DR",
+            "location": {
+                "latitude": 51.677601,
+                "longitude": -4.136
+            },
+            "prices": {
+                "E5": 159.7,
+                "E10": 149.7,
+                "B7": 147.7
+            }
+        },
+        {
+            "site_id": "gcuvqr3pbwz4",
+            "brand": "Morrisons",
+            "address": "38 Fenwick Road, Glasgow",
+            "postcode": "G46 6AA",
+            "location": {
+                "latitude": 55.807794,
+                "longitude": -4.29425
+            },
+            "prices": {
+                "E5": 160.7,
+                "E10": 146.7,
+                "B7": 148.7
+            }
+        }
+    ]
+}
